@@ -1,0 +1,908 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some remarkable passages in the holy life and death of the late Reverend Mr. Edmund Trench most of them drawn out of his own diary.</title>
+            <author>Trench, Edmund, 1643-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 137 KB of XML-encoded text transcribed from 66 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71133</idno>
+            <idno type="STC">Wing T2109</idno>
+            <idno type="STC">ESTC R7785</idno>
+            <idno type="EEBO-CITATION">13240745</idno>
+            <idno type="OCLC">ocm 13240745</idno>
+            <idno type="VID">98627</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A71133)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98627)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 479:1 or 731:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some remarkable passages in the holy life and death of the late Reverend Mr. Edmund Trench most of them drawn out of his own diary.</title>
+                  <author>Trench, Edmund, 1643-1689.</author>
+                  <author>Boyse, J. (Joseph), 1660-1728.</author>
+               </titleStmt>
+               <extent>[15], 109, [3] p. : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Warren for Tho. Parkhurst ..., and Jonathan Robinson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: J. Boyse.</note>
+                  <note>Advertisement: p. [2]-[3] at end.</note>
+                  <note>Frontispiece portrait of author lacking from copy at reel 479:1.</note>
+                  <note>This item can be found at reels 479:1 and 731:12.</note>
+                  <note>Reproduction of original in Cambridge University Library and Huntington Library.</note>
+                  <note>Entry for B4078A cancelled in Wing (2nd ed.).</note>
+                  <note>Entry for B4078A cancelled in Wing (2nd ed.).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trench, Edmund, 1643-1689.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:98627:1"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Reverend Mr. Edmund Trench</figDesc>
+                  <q>In simplicity and Godly sincerity</q>
+                  <q>M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Doule pinx<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </q>
+                  <q>R White ſculp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </q>
+                  <q>The Reverend M<hi rend="sup">r</hi>. Edmund Trench.</q>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:98627:1"/>
+            <p>SOME Remarkable Paſſages IN THE Holy <hi>Life</hi> and <hi>Death</hi> Of the late Reverend M<hi rend="sup">r</hi> 
+               <hi>Edmund Trench;</hi> Moſt of them drawn out of his own DIARY.</p>
+            <p>
+               <hi>Being Dead, yet Speaketh,</hi> Heb. 11.4.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Warren,</hi> for <hi>Tho. Parkhurſt,</hi> at the <hi>Bible</hi> and <hi>three Crowns</hi> in <hi>Cheap<g ref="char:EOLhyphen"/>ſide;</hi> and <hi>Jonathan Robinſon,</hi> at the <hi>Golden-Lion</hi> in St. <hi>Paul</hi>'s Church-Yard, 1693.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:98627:2"/>
+            <pb facs="tcp:98627:2"/>
+            <head>TO Sir <hi>Thomas Roberts,</hi> B<hi rend="sup">t.</hi> AND Mr. <hi>Thomas Trench,</hi> Merchant.</head>
+            <p>IT did not need any long Diſpute with me to whom I ſhould preſent this Account of the <hi>Reve<g ref="char:EOLhyphen"/>rend</hi> Mr. <hi>Trench</hi>'s <hi>Life,</hi> drawn from his own <hi>Breviate</hi> of it; when <hi>I</hi> conſider'd not only your Relation to him, (the one by Marriage, the other by Blood;) but that extra<g ref="char:EOLhyphen"/>ordinary peculiar Affection to you both, which his <hi>Di<g ref="char:EOLhyphen"/>ary</hi> ſo frequently abounds
+<pb facs="tcp:98627:3"/>with large Expreſſions of. How great a ſhare had you in his kind and ſollicitous Thoughts! And how con<g ref="char:EOLhyphen"/>ſtantly were any Events that concern'd your Welfare, the matter of his <hi>Prayers</hi> or <hi>Praiſes</hi> in his holy Retire<g ref="char:EOLhyphen"/>ments! <hi>I</hi> have indeed de<g ref="char:EOLhyphen"/>ſignedly left out thoſe Paſ<g ref="char:EOLhyphen"/>ſages, wherein he declares his Judgment of you, tho' ſome of them were other<g ref="char:EOLhyphen"/>wiſe very fit to be inſerted, as expreſſive of the low O<g ref="char:EOLhyphen"/>pinion he had of himſelf. For tho' there could be no ſuſpicion of Flattery in 'em on the part of the <hi>Dead;</hi> yet <hi>I</hi> know the moſt deſerved
+<pb facs="tcp:98627:3"/>
+               <hi>Praiſes</hi> are dangerous to the <hi>living.</hi> And <hi>I</hi> am too deſirous of your imitating your excel<g ref="char:EOLhyphen"/>lent <hi>Brother</hi> in that <hi>Humility</hi> (which was one of the moſt amiable <hi>Excellencies</hi> that a<g ref="char:EOLhyphen"/>dorn'd his <hi>Life,</hi>) to do any thing that might be preju<g ref="char:EOLhyphen"/>dicial to your improvement in that Grace, which (as he would often obſerve) ſhould be the <hi>diſtinguiſhing Badge</hi> of our Relation to our <hi>bleſſed Maſter.</hi> That you may ſtill live to anſwer more fully the Character he gives, and the great hopes that he had conceiv'd of you; That the ſtock of <hi>Prayers</hi> which he daily laid up in Heaven, may
+<pb facs="tcp:98627:4"/>deſcend in yet richer Re<g ref="char:EOLhyphen"/>turns on your ſelves and Fa<g ref="char:EOLhyphen"/>milies: That you may ſtill follow him more, in Copy<g ref="char:EOLhyphen"/>ing out that admirable De<g ref="char:EOLhyphen"/>ſcription of our Saviour's Life,<note place="margin">Acts 10.38.</note> 
+               <hi>That he went about do<g ref="char:EOLhyphen"/>ing good:</hi> That you may im<g ref="char:EOLhyphen"/>prove the conſiderable Ad<g ref="char:EOLhyphen"/>vantages you are entruſted with for that <hi>bleſſed purpoſe;</hi> That thereby you may en<g ref="char:EOLhyphen"/>creaſe the <hi>number</hi> of ſo <hi>bright Examples of goodneſs</hi> in a de<g ref="char:EOLhyphen"/>generate Age, and become the <hi>ſingular Ornaments of your Chriſtian Profeſſion</hi> in it, is the hearty Prayer of</p>
+            <closer>
+               <signed>
+                  <hi>Your affectionate humble Servant,</hi> J. Boyſe.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:98627:4"/>
+            <head>PREFACE TO THE READER.</head>
+            <p>'TIS not without the Contri<g ref="char:EOLhyphen"/>vance of <hi>exquiſite Wiſ<g ref="char:EOLhyphen"/>dom,</hi> that the <hi>Pen-men</hi> of the <hi>Holy Scriptures</hi> have recorded ſo many Obſervable Paſſages of the <hi>Lives</hi> and <hi>Deaths</hi> of ſe<g ref="char:EOLhyphen"/>veral Eminent <hi>Saints.</hi> For (beſides that there is ſomething in the Hiſtorical Part of the <hi>Bible</hi> ſo grateful to our Natural Curioſity, as more eaſily engages our At<g ref="char:EOLhyphen"/>tention and Delight in the peruſal of it:) We ſhould be too ready to think theſe <hi>Sa<g ref="char:EOLhyphen"/>cred Oracles</hi> deliver to us an impracti<g ref="char:EOLhyphen"/>cable <hi>Idea</hi> of <hi>Piety</hi> and <hi>Holineſs,</hi> if we did not behold the accurate Impreſſion of its <hi>Doctrines</hi> and <hi>Precepts</hi> inſl<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>p'd on the Temper and Actions of thoſe that embrace'd 'em. But thoſe amiable living Patterns of <hi>Religion</hi> ſenſibly reproach our Defects as inexcuſable, encourage and
+<pb facs="tcp:98627:5"/>quicken our Endeavours, and inflame us with a <hi>holy Emulation,</hi> to equal, or out<g ref="char:EOLhyphen"/>do 'em. There is indeed one peculiar ad<g ref="char:EOLhyphen"/>vantage in that relation of the Lives of good Men, which the <hi>Holy Scriptures</hi> contain; that we are ſure their Actions are repreſented with all plainneſs and ſimplicity. The curious <hi>Pieces</hi> drawn by thoſe <hi>inſpir'd Painters,</hi> owe none of that native <hi>Beauty</hi> and <hi>Luſtre</hi> they appea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with, to the arbitrary favour of their <hi>Pen<g ref="char:EOLhyphen"/>cils,</hi> which as faithfully preſent to our view thoſe <hi>Defects</hi> and <hi>Spots</hi> which ſhew'd 'ent to be the <hi>Children of Adam.</hi> as thoſe fairer <hi>Lineaments</hi> and <hi>Stroke</hi> of the <hi>Divine Image,</hi> which evidenc'd thim to be the <hi>Sons of God.</hi> But next to the <hi>Memoirs</hi> of holy Men recorded there there are none in which we can have grea<g ref="char:EOLhyphen"/>ter aſſurance of impartiality, or may ex<g ref="char:EOLhyphen"/>pect to find not only their Actions, but even the ſecret Springs and Motives <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them more faithfully laid open, than in thoſe penn'd by themſelves: Eſpecially when thoſe that keep <hi>Diaries</hi> of their own Lives, are not only Perſons of ſolid Judg<g ref="char:EOLhyphen"/>ment, but of that remarkable Humility and Integrity that may command belie from all that know 'em. On both theſe ac<g ref="char:EOLhyphen"/>counts
+<pb facs="tcp:98627:5"/>this enſuing <hi>Breviate</hi> of the Reve<g ref="char:EOLhyphen"/>rend Mr. <hi>Trench</hi>'s Life does recommend it ſelf. 'Twas penn'd by him in the times he ſet apart for the ſtricteſt Self-reflection. I need ſay nothing to perſwade any that had the happineſs to converſe with him, how exactly his own <hi>Motto</hi> was engraven on his Words as well as Actions; <hi>In ſim<g ref="char:EOLhyphen"/>plicity and godly ſincerity.</hi> And even for thoſe that knew him not, I am confi<g ref="char:EOLhyphen"/>dent there are ſo lively Characters of Sin<g ref="char:EOLhyphen"/>cerity that appear in theſe <hi>Papers</hi> them<g ref="char:EOLhyphen"/>ſelves, as will abundantly ſatisfie all that read 'em, that in writing them he <hi>ſate to himſelf,</hi> and drew a naked and undiſſem<g ref="char:EOLhyphen"/>bled Portraicture of his own <hi>Soul.</hi> And though I doubt not be intended 'em only for his own uſe, or his near Relations; yet they are too precious Remains of that <hi>ex<g ref="char:EOLhyphen"/>cellent Soul,</hi> and too capable of being pub<g ref="char:EOLhyphen"/>lickly uſeful to the intereſt of <hi>Religion,</hi> to be ſo confin'd. The Truth of <hi>Chriſtianity</hi> has been prov'd by the cleareſt Arguments that the nature of the Subject can require; and vindicated againſt the moſt plauſible Objections of the numerous <hi>Infidels,</hi> or (as they would now be call'd) <hi>Deiſts</hi> of this Age. But methinks the lives of ſuch eminent Profeſſors of it, are a conſider<g ref="char:EOLhyphen"/>able Addition to the ſtrength of thoſe Ar<g ref="char:EOLhyphen"/>guments,
+<pb facs="tcp:98627:6"/>and carry with 'em more ſenſi<g ref="char:EOLhyphen"/>ble Evidence of its Truth. That <hi>Revela<g ref="char:EOLhyphen"/>tion</hi> muſt ſure needs be from God, which <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thoſe that embrace it into ſo <hi>God<g ref="char:EOLhyphen"/>like</hi> a temper, and raiſes 'em to ſo glo<g ref="char:EOLhyphen"/>rious a Reſemblance and Imitation of the <hi>Divine Life.</hi> And here thoſe that own the Principles of <hi>Chriſtianity</hi> may in this Glaſs eaſily learn to diſtinguiſh betwixt its <hi>viral power,</hi> and that diſpirited <hi>dead Image</hi> of it ſo common in the World. It evidently appears from this account of his Life, that thoſe two Eſſential Branches of our holy Religion, <hi>Love to God,</hi> (vent<g ref="char:EOLhyphen"/>ing it ſelf in a conſtant and devout inter<g ref="char:EOLhyphen"/>courſe with him through a Mediator) and <hi>Love to Men</hi> (inflam'd by the peculiar Motives the <hi>Goſpel</hi> preſents, and expreſ<g ref="char:EOLhyphen"/>ſing it ſelf in the moſt affectionate and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>alous endeavours to do them the greateſt and moſt laſting good) were the very Conſtitution and Frame of his renewed Nature, and the daily Pulſe and Breath of his Soul. O with what attractive Glo<g ref="char:EOLhyphen"/>ry would practicat Chriſtianity ſhine and render the <hi>Chriſtian Church</hi> a fair Model of the heavenly Society, were ſuch Inſtances of its admirable ſanctifying In<g ref="char:EOLhyphen"/>fluence as common as thoſe <hi>Votaries</hi> it has gain'd from Cuſtom and Intereſt.
+<pb facs="tcp:98627:6"/>But I would eſpecially propoſe his <hi>life</hi> as a <hi>Copy</hi> for thoſe of his own Profeſſion to write after: They may from him learn, that thoſe only are fit to undertake ſo aw<g ref="char:EOLhyphen"/>ful a Truſt as to watch over the Souls of others, who are diligently careful to ob<g ref="char:EOLhyphen"/>ſerve and regulate their own. In him there was a rare mixture of the Graces that ſhould adorn both the <hi>contempla<g ref="char:EOLhyphen"/>tive</hi> and <hi>active</hi> part of a Miniſter's life. And few have I known to whom that Character of Miniſters (which he us'd to draw from their being call'd <hi>Angels,</hi> did more exactly agree: For his time was truly divided betwixt <hi>beholding the Face of his Father in Heaven,</hi> and <hi>mi<g ref="char:EOLhyphen"/>niſtring to the Heirs of Salvation on Earth.</hi> There was no colour for taxing him with thoſe faults that are of late become the common reproach of too many of the Clergy, <hi>Ambition</hi> and <hi>Avarice.</hi> He was ſo far from aſpiring to great Preferments, that he would thankfully have accepted of the meaneſt <hi>Cure,</hi> wherein he might have had the opportunity of doing good to Souls in a publick Station, which his ſtrong In<g ref="char:EOLhyphen"/>clinations to peace made him (perhaps too earneſtly) deſirous of.</p>
+            <p>Indeed if ever Humility inclin'd to a culpable exceſs, it was in him; For to
+<pb facs="tcp:98627:7"/>that we muſt impute it, that ſo eminent a <hi>Light</hi> was for ſo many Years confin'd to a dark Corner, which was fitter to ſhed its diffuſive Beams in a far larger Orb. And ſo far was he from proſtituting his Profeſſion to ſerve a ſecular Intereſt, that having enough of his own to ſubſiſt on, h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> never receiv'd one Farthing on the ſcore of his unwearied Labours; but on th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> contrary, laid out a conſiderable Sum yearly in good Books and other ways of Charity among the People he Preach'd to; and con<g ref="char:EOLhyphen"/>tributed liberally out of his own Purſe, t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch young Miniſters as had but a ſcanty and diſcouraging Allowance. I confeſs, A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are not capable of imitating him herein <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> but methinks ſuch Examples ſhould up<g ref="char:EOLhyphen"/>braid thoſe <hi>Clergy-men</hi> that not only ſee<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Eccleſiaſtical Dignities,</hi> with the ſam<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mean and ſordid Arts that others do Se<g ref="char:EOLhyphen"/>cular ones; but ſo often by <hi>Pluraliti<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> enrich themſelves at no leſs <hi>coſt</hi> than th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> neglected betrayed <hi>Souls</hi> of the People (An abuſe too foul for any ſpecious colour to hide the deformity of it; and ſo gro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that it could not eſcape the Complaints <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the packt <hi>Council of Trent;</hi> and 'tis <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhame that our <hi>Convocations</hi> have never done any thing to reform it.) He on the contrary was as liberal of his Purſe as <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:98627:7"/>his Pains, to promote that Intereſt of his <hi>bleſſed Maſter,</hi> which was far dearer to him than any that he could call his <hi>own.</hi> And indeed the admirable Succeſs which both his, and worthy Mr. <hi>Brand</hi>'s Mini<g ref="char:EOLhyphen"/>ſtry, (who was for ſome Years his Neigh<g ref="char:EOLhyphen"/>bour in thoſe parts of <hi>Kent</hi>) met with, as endear'd by their large and generous Cha<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ty, has often made me wiſh, that more <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ous Gentlemen would devote their Sons to that <hi>Sacred Function,</hi> who are able to give 'em ſuch Eſtates as ſhall free them from the neceſſity of dependance on their People, and capacitate them to recom<g ref="char:EOLhyphen"/>mend their Inſiructions by their Alms. As <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur <hi>Saviour's</hi> Miracles of Mercy in heal<g ref="char:EOLhyphen"/>ing men's <hi>diſeaſed Bodies,</hi> prepar'd 'em to receive him as the compaſſionate <hi>Phy<g ref="char:EOLhyphen"/>ſician of Souls:</hi> So when his Miniſters are capable to relieve the Neceſſities of others, their Charity inſinuates into the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>earts of their People that affectionate Ve<g ref="char:EOLhyphen"/>neration for them, as gives all their holy <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounſels the greater Authority and Effi<g ref="char:EOLhyphen"/>cacy. There is but one thing more I ſhall take notice of concerning him, and that is, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is great Temper and Moderation in re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erence to thoſe modern Controverſies that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive made ſo great a noiſe in the <hi>Reform<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:98627:8"/>Churches;</hi> And <hi>I</hi> do it the rather, be cauſe the <hi>Reader</hi> may wonder to find litt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or no mention of 'em in the following <hi>Bre<g ref="char:EOLhyphen"/>viate</hi> of his life. But tho' few perhaps d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more <hi>throughly underſtand</hi> 'em, yet no<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that ever I converſt with, <hi>ſpake</hi> more <hi>ſpa<g ref="char:EOLhyphen"/>ringly</hi> of them. He lookt on that violet Zeal which the moſt expreſs about 'em, as <hi>feavouriſh preternatural heat</hi> that on<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> prey'd on the <hi>vital fervour</hi> of <hi>practice Religion.</hi> But when he declar'd his Judg<g ref="char:EOLhyphen"/>ment to his Friends that deſir'd it, profeſt his concurrence with ſuch as ende<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vour'd to reconcile the contending Parti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by avoiding the harſh extreams of either and particularly his great eſteem of the <hi>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ciſick Writings</hi> of that <hi>eminent Ligh</hi> of his age, Mr. <hi>Baxter,</hi> to whom he own himſelf more indebted for ſolid and uſe<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> knowledge, than any other whatſoever, th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he had read the moſt celebrated of t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>French</hi> as well as <hi>Engliſh Divines,</hi> an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had a particular value for the Writings <hi>Monſieur Daille,</hi> and Dr. <hi>Iſaac Barrow</hi> And now I ſhall no longer detain the <hi>Re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>der</hi> from the peruſal of his <hi>Life,</hi> than <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſire he may read it with a ſerious deſig<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to tranſcribe into his own, whatever he ſh<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> find in it worthy of his imitation.</p>
+         </div>
+      </front>
+      <body>
+         <div type="biography">
+            <pb n="1" facs="tcp:98627:8"/>
+            <head>Edmund Trench</head>
+            <head type="sub">March 10. 1684. My Father's Motto and my own.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 Cor. 1.12.</hi>
+                  </bibl>
+                  <p>In Simplicity and Godly Sincerity.</p>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>Phil. 1.21.</hi>
+                  </bibl>
+                  <p>To me to Live is Chriſt, and to Die is Gain.</p>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>Phil. 3.8.</hi>
+                  </bibl>
+                  <p>I count all things but dung, that I may win Chriſt.</p>
+               </q>
+               <q>
+                  <p>Rarius de dogmatibus Chriſtus diſſeruit, ſaepiùs, immo vero ubique &amp; ſemper de vivendi ſinceritate.</p>
+               </q>
+               <q>
+                  <l>Vivere bis, vitâ poſſe priore frui,</l>
+                  <l>Ampliat aetatis ſpatium ſibi vir bonus.</l>
+               </q>
+            </epigraph>
+            <p>THE Title of <hi>Angel,</hi> ſometime, given to Miniſters, ſhou'd mind 'em of imitating thoſe Glorious Spirits, as far as may conſiſt
+<pb n="2" facs="tcp:98627:9"/>with the Frailties of fleſh and blood, dividing their time betwixt <hi>beholding the Face of their Father in Heaven, and Miniſtring to the Heirs of Salvation.</hi>
+            </p>
+            <p>About 15 Years ago I wrote ſome Paſſages of my former Life, and have ſince occaſionally added more. Pre<g ref="char:EOLhyphen"/>ſent Afflictions occaſion many and fre<g ref="char:EOLhyphen"/>quent Reflections on what I am, and what I have been: my Papers afford me ſome help, and may be more uſe<g ref="char:EOLhyphen"/>ful laid together; therefore I deſign the Sum of what I have written, and what further ſhall occur fit to be re<g ref="char:EOLhyphen"/>membred. The Ends I aim at (as I formerly noted 'em) are,</p>
+            <p>The Glory of God's free Grace in and through Jeſus Chriſt my deareſt Lord and Saviour, the ſole Foundation of my Hope and Comfort.</p>
+            <p>The Shaming and Humbling my ſelf, that have ſo often, and do ſo heinouſly offend ſo good a God, and ſo merciful a Redeemer.</p>
+            <p>The prevention of future Relapſes by the remembrance of God's great Favours ſo undeſervedly multiply<g ref="char:EOLhyphen"/>ed.</p>
+            <pb n="3" facs="tcp:98627:9"/>
+            <p>The promoting of perſeverance and growth in all manner of holy Conver<g ref="char:EOLhyphen"/>ſation and Godlineſs by the Meditation of my paſt Follies, and the review of my thoughts, and reſolves about my own Duty and Happineſs in times of great affliction, and the approaches of Death to others, and ſeemingly to my ſelf alſo.</p>
+            <p>The furthering of Hope, and Peace, and Comfort, and Joy in ſuch Seaſons as they may be moſt neceſſary and uſe<g ref="char:EOLhyphen"/>ful.</p>
+            <p>All through the Aſſiſtance of the Spirit of Grace, which I moſt humbly and earneſtly implore.</p>
+            <div type="part">
+               <pb n="4" facs="tcp:98627:10"/>
+               <head>Some Things of thoſe from whom I deſcended, for my Imitation and Encourage<g ref="char:EOLhyphen"/>ment.</head>
+               <p>MY Grand-Father was <hi>Edmund Trench,</hi> a younger Son of <hi>John,</hi> a <hi>Norfolk</hi> Gentleman, Converted about the 16th Year of his Age to the Faith<g ref="char:EOLhyphen"/>ful Service of God, by the Labours of Mr. <hi>Furnace,</hi> noted for Piety and Pain<g ref="char:EOLhyphen"/>fulneſs in thoſe parts. By his Godly humble Converſation when his Maſter a <hi>Grocer</hi> in <hi>Norwich</hi> fail'd, he was re<g ref="char:EOLhyphen"/>commended to two Brothers whoſe Name was <hi>Cock,</hi> of chief Rank in that City, who intruſted him with the ma<g ref="char:EOLhyphen"/>nagement of their Trade in Stuffs at <hi>London.</hi> He abundantly anſwer'd their Expectation, and at length became their Brother, by Marrying the young<g ref="char:EOLhyphen"/>eſt of the three Daughters of Mr. <hi>Mowre,</hi> a Pious and Prudent Citizen of <hi>Nor<g ref="char:EOLhyphen"/>wich,</hi> and a Partner in the conſiderable Trade they drove, (the two Elder be<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:98627:10"/>their Wives before.) Many Years he enjoy'd a large Portion of the Di<g ref="char:EOLhyphen"/>vine Bleſſing, thriving in his outward Eſtate, lov'd and honour'd by his Fel<g ref="char:EOLhyphen"/>low-Servants, rejoycing in divers hopeful Children, and above all, walk<g ref="char:EOLhyphen"/>ing before God in Health and Holineſs with great delight in his Service, and great aſſurance of his Favour. But as he would ſay, he found at laſt, <hi>He was not in Heaven.</hi> He was exercis'd with many loſſes (ſome very great) in his Eſtate, Sickneſſes and Deaths in him<g ref="char:EOLhyphen"/>ſelf and neareſt Relations, Doubts and Fears about his Eternal Condition, and, which were moſt grievous to him, horrid and blaſphemous Thoughts and Suggeſtions. All theſe with Melan<g ref="char:EOLhyphen"/>choly were more troubleſome in his Old Age. Yet he perſiſted in his holy Courſe, exerciſing himſelf continually to keep a Conſcience void of offence towards God and towards Men; con<g ref="char:EOLhyphen"/>ſtant in ſecret, private and publick Prayer, reading the Holy Scriptures by himſelf, and Expounding 'em in his Family, Catechizing his Children and Servants, examining 'em about and re<g ref="char:EOLhyphen"/>peating for their uſe the publick La<g ref="char:EOLhyphen"/>bours
+<pb n="6" facs="tcp:98627:11"/>of his Mioniſter, moſt juſt and equitable in his Trade and all his Deal<g ref="char:EOLhyphen"/>ings, and eminently Charitable in helping others according to their ſe<g ref="char:EOLhyphen"/>veral Wants. And God greatly bleſs'd his Example and Inſtructions for the verſion and Conſirmation of ſome Souls, eſpecially thoſe neareſt to him. At length, in a good old Age, 83 Years and a half, he reſted from all his Labours, and entred the Inviſible World of Glorious Spirits, <hi>June</hi> 7. 1658. His Good Name liv'd long a<g ref="char:EOLhyphen"/>ter, and is not yet dead among ſuch as had to do with, or heard of him. My Grand-Mother ſurviv'd almoſt 11 Years, a conſtant Profeſſor of Religion, and, I hope, ſincere Practifer alſo: ſhe follow'd, <hi>March</hi> 16.166, almoſt 90 Years old.</p>
+               <p>Of their Children, four only attain'd to Years of Diſcretion, whereof two Danghters were Married to <hi>Caldwell Furrington,</hi> and <hi>Tho. Bewley</hi> of <hi>London,</hi> Merchants; both happy before I was Born, as was likewiſe the Younger Son, dying about 18.</p>
+               <pb n="7" facs="tcp:98627:11" rendition="simple:additions"/>
+               <p>
+                  <hi>Edmund</hi> the Eldeſt was Born <hi>July</hi> 8. 1608. always towardly, addicted to Seriouſneſs, Study, and Piety in thoſe Years that incline to Play and Folly. He anſwer'd his Parents faithfulneſs in his Education with early goodneſs, owing (as far as I cou'd underſtand) a <hi>new birth</hi> to thoſe from whom he re<g ref="char:EOLhyphen"/>ceiv'd a <hi>natural.</hi> In the 18th Year of his Age, from the care of his School-Maſter Mr. <hi>Augur,</hi> he was ſent to <hi>Sid<g ref="char:EOLhyphen"/>ney-Colledge</hi> in <hi>Cambridge,</hi> and com<g ref="char:EOLhyphen"/>mitted to Mr. — <hi>Dugard,</hi> a Pious, Learned, and Painful Tutro. He grew in Grace and Learning, happily eſca<g ref="char:EOLhyphen"/>ping many Temptations, and fruſtra<g ref="char:EOLhyphen"/>ting the Deſigns of ſome Superiors wo wou'd have debauch't a <hi>Puritan</hi> as they call'd him, tho' he was ſtill ſuffi<g ref="char:EOLhyphen"/>ciently conformable to the eſtabliſh't Eccleſiaſtical Orders. He perform'd his Exerciſes and proceeded <hi>Batchelour</hi> and <hi>Maſter</hi> with credit, and obtain'd an excellent report from his Tutor, and from the Maſter of the College, Dr. <hi>Ward.</hi> While he liv'd under 'em he was log exercis'd with a trouble<g ref="char:EOLhyphen"/>ſome Diſtemper which many unplea<g ref="char:EOLhyphen"/>ſant
+<pb n="8" facs="tcp:98627:12"/>means did not remove. How humbly and patiently he bare, and how excellently he improv'd ſo tedious an Affliction, I learnt to my comfort and encouragement from many of his pious Letters among my Grand-father's Pa<g ref="char:EOLhyphen"/>pers. They were ſure a lively Picture of his Soul, which knew not how to diſſemble at any time, much leſs when ſo ſenſibly under the hand of the heart-ſearching God. They flow'd with ho<g ref="char:EOLhyphen"/>ly resignation to his Will, quiet ſub<g ref="char:EOLhyphen"/>miſſion to his afflicting hand, earneſt deſires to underſtand his mind, to grow ſtill more humble and patient, and dead to this World, and better prepar'd for another. They abound<g ref="char:EOLhyphen"/>ed with thankful Expreſſions for their care, coſt and pains, and eſpecially to God for ſupporting under and making better by the troubleſome returns of his Diſeaſe, not without admirable Expreſſions of Hope and Joy in the Love of God in Jeſus Chriſt, witneſſed by his Spirit, by ſuch a happy Tem<g ref="char:EOLhyphen"/>per and Deportment for many Years before he found relief, he was doubt<g ref="char:EOLhyphen"/>leſs better quality'd to do the Will of God in his following Health, and to
+<pb n="9" facs="tcp:98627:12"/>ſuffer with ſuch wonderful patience, ſubmiſſion and rejoycing, the grievous complication of Diſeaſes that was for ſome time the forerunner of his Death. A while after he was Maſter of Arts, on due conſideration, advice, and prayers, he ſtudy'd Phyſick ſome time at <hi>Paris,</hi> and took the Degree of Doctor at <hi>Bourges.</hi> When returned to <hi>England</hi> he Married <hi>Mary</hi> Eldeſt Daughter of <hi>Samnel Middlemore,</hi> Mer<g ref="char:EOLhyphen"/>chant of <hi>London,</hi> [a very Pious, Cha<g ref="char:EOLhyphen"/>ritable Man in his Life, which he clos'd with a bountiful Gift to the Company of <hi>Cloth-workers,</hi> for the Annual Re<g ref="char:EOLhyphen"/>lief of 20 Poor in Coals, Cloths, <hi>&amp;c.</hi>] He dying after his Wife, when his Children were Young, committed 'em to Sir <hi>John Wollaſton,</hi> and Mr. <hi>Thomas Burnell:</hi> The Daughters were happy in the faithfulneſs of the latter, and in their Religious Education under his Wife their Poius Aunt. The Elder, <hi>Mary,</hi> was Married to my <hi>Father, Auguſt</hi> 14. 1639. ſhe then paſt the middle of her 17th. (Born <hi>Jan.</hi> 24. 1622.) he entred on his 32d Year. The Younger, <hi>Suſan,</hi> was afterwards
+<pb n="10" facs="tcp:98627:13"/>the Wife of Sincere and Humble Dr. <hi>Roger Drake.</hi>
+               </p>
+               <p>My Father was Faithful accord<g ref="char:EOLhyphen"/>ing to his enlarged Duty as a Hus<g ref="char:EOLhyphen"/>band, and after as a Father to my ſelf and five other Sons (beſides one Still-born) and three Daughters, care<g ref="char:EOLhyphen"/>ful for our Souls and Bodies, ſparing for nothing needful in Temporals, or Spirituals; exceeding loving and ten<g ref="char:EOLhyphen"/>der, and yet never that I cou'd ſee or hear mourning for the Death of any, tho' he left but 3 behind. Having done his Duty wherein he was ſufficiently follicitous, he chearfully acquieſe'd in what pleaſed God. In his Education he was much help't by his true Yoke-fellow our good Mother, who though ſhe had hard Travail to bring ſome of us, (particularly my ſelf) into this World, yet travell'd much more to fit us for a better. Through her aſſiſtance he follow'd his Practice with more lei<g ref="char:EOLhyphen"/>ſure and comfort. His Employment was conſiderable, and which he more rejoyc't in, his ſucceſs. He was emi<g ref="char:EOLhyphen"/>nent for faithfulneſs to all that had re<g ref="char:EOLhyphen"/>courſe to him, frequently viſiting, de<g ref="char:EOLhyphen"/>liberately conſidering their Caſes,
+<pb n="11" facs="tcp:98627:13"/>watchfully obſerving the turns of their Diſtempers, and accordingly with great care and judgment varying his Preſcriptions. His tender ſenſe of their Souls greatly inclin'd him to di<g ref="char:EOLhyphen"/>ſcourſe with and adviſe his Patients as Spiritual Phyſician, but he was often forc't to forbear in dangerous caſes, becauſe he found by experience the Sick were apt to judge themſelves paſt help when he ſpake to 'em of another World, their Spirits ſinking, and Re<g ref="char:EOLhyphen"/>medies proving leſs effectual. In all his Practice he was generouſly free from Covetouſneſs, not uſing any Tricks to encreaſe it, nor unworthily ſeeking to, or humouring his Patients, weary of numerous though profitable Viſits, and induſtriouſly ſpeeding their Recovery, preſcribing no more than he judg'd needful, and frequently re<g ref="char:EOLhyphen"/>fuſing Fees which even his Patients thought he might as well have taken. He was ſtill the ſame ſincere plain-hearted Man, free and open without Deceits and Tricks in his Calling and all other Affairs. And ſure he was the more Bleſſed of God; otherwiſe conſidering he was no Politician, apt
+<pb n="12" facs="tcp:98627:14"/>to believe the beſt, and truſt as if o<g ref="char:EOLhyphen"/>thers were as far from diſſembling as himſelf, he cou'd not have liv'd and brought up his Children as he did, nor, his Loſſes conſider'd, left ſuch a Com<g ref="char:EOLhyphen"/>petence to his Widow, and them. He conſtantly perſever'd in thoſe good ways into which he was entred by his Parents, and when they grew old and very infirm, he made it more his bu<g ref="char:EOLhyphen"/>ſineſs <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and that even when grey Heirs grew upon himſelf, and his own Diſtempers increaſt the diſſiculty of complying with others. About 50 he was troubled with the Stone, from which God's Bleſſing on his own Endeavours reliev'd him. But then about 8 Years before his Death, he fell into an incurable Jaundiſe, ac<g ref="char:EOLhyphen"/>companied for a while with a <hi>Scirrbus</hi> in his Liver, frequent troubleſome Itchings, Aguiſh Shiverings of long continuance, little and diſturbed ſleep, violent Fits of the Colick, great Ap<g ref="char:EOLhyphen"/>petite with ill Digeſtion, and other very troubleſome Symptoms. He bare all with exemplary Patience and Con<g ref="char:EOLhyphen"/>tentment, never that we cou'd per<g ref="char:EOLhyphen"/>ceive repining at ſuch ſevere Diſpen<g ref="char:EOLhyphen"/>ſations,
+<pb n="13" facs="tcp:98627:14"/>nor ever praying for their re<g ref="char:EOLhyphen"/>moval, nor yielding, though impor<g ref="char:EOLhyphen"/>tun'd, to have one Day ſet apart to ſeek on his behalf. When we wiſh'd him a good Night in his Fits, he wou'd reply, <hi>It ſhould be good becauſe it pleaſed God.</hi> He wou'd rarely let any ſtay a Night by him, affirming, <hi>He was not alone, but the Father was with him.</hi> And with the Father he ſometimes enjoy'd more Heavenly Communion, which yet was not conſtant and long as his Peace and Hope were; they hardly admitted any interruption, but he ge<g ref="char:EOLhyphen"/>nerally long'd to be Diſſolv'd and to be with his God and Saviour, and ſpake thereof often with delight.</p>
+               <p>In the Year 65. when the Plague began to rage (the Weekly Account amounting to about 3000) the impor<g ref="char:EOLhyphen"/>tunity of Friends drew him with us to Dr. <hi>Drake</hi>'s in <hi>Burnham,</hi> 2 Miles ſhort of <hi>Maiden-head,</hi> where yet he was more in Reading, Meditation and Prayer. He expreſt a ſtill greater ſenſe of the Love of God in Chriſt, and of his truth and goodneſs in afflicting him. He profeſt his Soul more eſta<g ref="char:EOLhyphen"/>bliſh't thereby with a powerful Con<g ref="char:EOLhyphen"/>viction
+<pb n="14" facs="tcp:98627:15"/>of all Creatures Vanity, and rais'd to more vigorous actings of a realizing Faith in holy Heavenly Me<g ref="char:EOLhyphen"/>ditations, That the ſweetneſs and pro<g ref="char:EOLhyphen"/>ſit thereof in his Retirements were ſuch, that he fear'd the return of his uſual Employment, and ſhou'd be a<g ref="char:EOLhyphen"/>fraid of loſing his weariſom affliction, without great aſſurance that Health ſhould be as ſpiritually advantagious as Sickneſs; profeſſing his conſtant Judgment that the leaſt Progreſs in Grace and Holineſs was greater mat<g ref="char:EOLhyphen"/>ter of Joy, than the greateſt Affliction of Sorrow. He judg'd it very unbe<g ref="char:EOLhyphen"/>coming a Chriſtian for <hi>Senſe</hi> ſo far to prevail againſt <hi>Reaſon</hi> and <hi>Faith,</hi> as to raiſe any conſiderable Averſeneſs from drinking of that Cup which his Sove<g ref="char:EOLhyphen"/>reign Lord and tender Father moſt wiſely prepar'd for his good. Ac<g ref="char:EOLhyphen"/>cordingly he deſir'd his Friends to ſhew their Love in praying for a progreſ<g ref="char:EOLhyphen"/>ſive ſanctify'd Improvement of his Sufferings, and not for their Removal, and wiſh't 'em comfortably to believe there was no ſuch harm in affliction as we are apt to imagine. The Fire of <hi>London</hi> remov'd him firſt to an Houſe
+<pb n="15" facs="tcp:98627:15"/>near <hi>Stepncy,</hi> and ſoon after to another in <hi>Crouched-Friars,</hi> where he chearful<g ref="char:EOLhyphen"/>ly expected his deliverance by Death. 1669. he grew conſident of its ap<g ref="char:EOLhyphen"/>proach. <hi>Aug.</hi> 14. being his <hi>Wedding<g ref="char:EOLhyphen"/>day,</hi> he rejoyc'd with ſome Invited Friends, affirming it the <hi>laſt he ſhould live on Edrth. October</hi> he ſpake of his ſenſible Decays as Tokens of his near deſired Reſt. About the middle of <hi>December</hi> he caus'd his Will to be new drawn, ordering particularly that Clauſe to be inſerted, <hi>That he com<g ref="char:EOLhyphen"/>mended his Soul on good Evidence into the hands of God,</hi> adding, that he left us much leſs than the World imagin'd, but he hop'd God's Bleſſing with it, ha<g ref="char:EOLhyphen"/>ving never wrong'd any Man of a Pen<g ref="char:EOLhyphen"/>ny. A Day after (14 before he died) when I was diſcourſing of his diſſoluti<g ref="char:EOLhyphen"/>on, he ſaid, <hi>He cou'd appeal to God through his infinite goodneſs, that ſince his Youth he had walk't before him with an upright heart, never waſting his Conſci<g ref="char:EOLhyphen"/>ence with any groſs ſin, that he comforta<g ref="char:EOLhyphen"/>bly believ'd his Regeneration by the Holy Spirit and ſaving Intereſt in his deareſt Saviour, and had accordingly enjoy'd a conſtant Tranquillity of Mind, not with<g ref="char:EOLhyphen"/>out
+<pb n="16" facs="tcp:98627:16"/>ſome ſhort and ſeldom more raviſhing Joys.</hi> He then renew'd his oft repeat<g ref="char:EOLhyphen"/>ed Charge of loving and ſerving God, being dutiful to our Mother, and helpful to our little Siſter, which yet he ſaid, he did not doubt of, and to our great comfort <hi>Bleſſed</hi> my ſelf and Brother, bleſſing God alſo for us. Perceiving his Diſtempers and ſore Mouth to encreaſe, he took a ſolemn leave of my Mother, telling her with Joy, <hi>he was going to his God, and her God, and that 'ere long they ſhould meet to part no more.</hi> After which he bid us not expect to hear much from him, but believe his mind ſtill the ſame. Accordingly he perſiſted, bearing pa<g ref="char:EOLhyphen"/>tiently his grievous pains, yet ſaying little, tho' enough to ſignific his unin<g ref="char:EOLhyphen"/>terrupted hope and joy till <hi>Friday</hi> 31. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>mb.</hi> 1669. when after ſome im<g ref="char:EOLhyphen"/>perfect Words, but 2 hours before, of <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ath,</hi> and <hi>Chriſt,</hi> and <hi>Pardon,</hi> his Spi<g ref="char:EOLhyphen"/>rit return'd to his Heavenly Father, and inſtead of a New-Year on Earth, cauſed a glorious Eternity in Heaven. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> lives ſtill in the honourable Re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>rance of ſuch as knew him, ne<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> mention'd, to my knowledge, with
+<pb n="17" facs="tcp:98627:16"/>reproach; oft with <hi>Elogies</hi> of his <hi>Pie<g ref="char:EOLhyphen"/>ty, Sincerity, Ability,</hi> and <hi>Faithſulneſs,</hi> as a Man, a Friend, and a Phyſician. Some (I doubt bad themſelves) com<g ref="char:EOLhyphen"/>mended his Goodneſs, acknowledging the common (though I think unjuſt) reproach of his Calling cou'd not be faſten'd on him.</p>
+               <p>O may I by the help, and to the Glory of Divine Grace, imitate ſuch excellent Examples, and not degene<g ref="char:EOLhyphen"/>rate from 'em, but ſerve God with all my might, according to my Fa<g ref="char:EOLhyphen"/>ther's Symbol, <hi>In Simplicity, and godly Sincerity.</hi> My <hi>Grandſather</hi> was a Pat<g ref="char:EOLhyphen"/>tern of Humility and Meckneſs, and yet of Reſolution when there was a Cauſe; of great Charitableneſs in Word and Deed, eſpecially to his Relations who had great Summs from him, which yet his Children did not want. He was likewiſe an eminent Inſtance, that Doubts and Fears, and horrid Suggeſtions may infeſt the tru<g ref="char:EOLhyphen"/>ly, yea the excellently Good; and that great Loſſes and Croſſes in Eſtate and Kindred may conſiſt with God's eſpe<g ref="char:EOLhyphen"/>cial Favour. My Father ſet me a bright Example of Integrity and Plain-heart<g ref="char:EOLhyphen"/>edneſs,
+<pb n="18" facs="tcp:98627:17"/>of Content and Rejoycing un<g ref="char:EOLhyphen"/>der heavy Afflictions, of affectionate Faithfulneſs in all his Relations, and of conſcientious Diligence in his par<g ref="char:EOLhyphen"/>ticular Calling; and he was an en<g ref="char:EOLhyphen"/>couraging Inſtance of a Divine Bleſ<g ref="char:EOLhyphen"/>ſing on ſuch as <hi>ſeek firſt the Kingdom of God and his Righteouſneſs,</hi> and caſt their Care on him in well-doing; his Eſtate having been preſerv'd and en<g ref="char:EOLhyphen"/>creas'd though great hazard and loſſes without worldly Policy. Both led and engag'd to Earlineſs and Con<g ref="char:EOLhyphen"/>ſtancy in God's Service, ſecret, pri<g ref="char:EOLhyphen"/>vate, and publick; to a faithful diſ<g ref="char:EOLhyphen"/>charge of every Office of Love to all they had to do with, to a ſober, righ<g ref="char:EOLhyphen"/>teous, and godly Life, in hope of a future ſatisfying everlaſting Felicity.</p>
+               <p>From ſuch I entred on my earthly Pilgrimage, <hi>Octob.</hi> 6. 1643. about 5 in the Evening, after my Mother had been 3 Days in painful dangerous Tra<g ref="char:EOLhyphen"/>vail. I was born with a great Wound in my Head, ſuppos'd by a blow of a great <hi>boſs'd Bible,</hi> as my Mother came out of Church: That was heal'd, and afterwards many Diſeaſes and hurt
+<pb n="19" facs="tcp:98627:17"/>in my Childhood, both Thigh-bones diſlocated together: Afterwards an Arm broken, well ſet, no harm re<g ref="char:EOLhyphen"/>maining. During my tender years, I was my Parent's immediate Care in <hi>London</hi> and <hi>Hackney,</hi> from whom, and my good Grandfather, (whoſe Di<g ref="char:EOLhyphen"/>verſion I often was) I wanted not In<g ref="char:EOLhyphen"/>ſtruction, Example, and Encourage<g ref="char:EOLhyphen"/>ment; and ſo far I ſeem'd to anſwer their Endeavours, that they delighted much in me. But I well remember, and thou, O Lord, much more, abund<g ref="char:EOLhyphen"/>ance of Wickedneſs I was guilty of, Diſobedience to Parents, indulging my Appetite to exceſs, taking or ſteal<g ref="char:EOLhyphen"/>ing what was not allow'd; quarrelling eſpecially with my next Brother <hi>Sa<g ref="char:EOLhyphen"/>muel,</hi> whom I ſhou'd have born with, conſidering his woful Affliction by the <hi>King's Evil;</hi> Pride in Apparel, or what Abilities and Acquirements I had; Envy, miſpence of Time in <hi>Ro<g ref="char:EOLhyphen"/>mances, Plays, idle Stories, &amp;c.</hi> too much play and lying. All aggrava<g ref="char:EOLhyphen"/>ted by ſo many and great Mercies and Means, ſuch ſingular Love and Light, that I have often thought my Sins more hainous than theirs that I have
+<pb n="20" facs="tcp:98627:18"/>ſeen going to Execution: They were never ſo engag'd, never enjoy'd ſuch helps as I. <hi>Have mercy upon me, O Lord, according to thy great goodneſs, and blot out my Tranſgreſſions, for my Saviour's ſake.</hi>
+               </p>
+               <p>Towards the end of my 15th Year, I was ſent to <hi>Cambridge</hi> with Mr. <hi>Sa<g ref="char:EOLhyphen"/>muel Jacomb,</hi> and by him plac'd in <hi>Queen's Colledge,</hi> under the Tuition of Mr. <hi>Andrew Paſchall:</hi> There I got the Love and good Report of my Tu<g ref="char:EOLhyphen"/>tor and others, but was far from de<g ref="char:EOLhyphen"/>ſerving it: I made a ſhift to do the <hi>Exerciſes</hi> required, but wofully neg<g ref="char:EOLhyphen"/>lected my Studies; ſadly addicted to <hi>Tennis, Cards,</hi> and other expenſive for<g ref="char:EOLhyphen"/>bidden Sports, to reading <hi>Romances, Plays,</hi> and <hi>ſmutry Poets;</hi> and at length more entangled with had Company, eſpecially in the abſence of my ſtudi<g ref="char:EOLhyphen"/>ous and loving Chamber-fellow, (af<g ref="char:EOLhyphen"/>terwards Sir <hi>J. K.</hi> an eminent Lawyer of the <hi>Inner-Temple,</hi> taken off when riſing in Riches and Honour.) By them I was drawn once and again to Gluttony and Drunkenneſs, Swearing and Curſing, and at laſt to <hi>making</hi> (as they call'd it) indeed to <hi>ſtealing</hi>
+                  <pb n="21" facs="tcp:98627:18"/>of <hi>Hankerchiefs, Knives, Books,</hi> or what elſe we cou'd lay our hands on. This was a common ſhameleſs pra<g ref="char:EOLhyphen"/>ctice: and ſuffering thereby from o<g ref="char:EOLhyphen"/>thers, I thought I might right my ſelf. It was God's goodneſs that I went no farther, having been tempted to go with 'em to naughty Women, which (my Inclination conſider'd) I wonder I never did. Bleſſed be God who ſtill reſtrained me, till my Cham<g ref="char:EOLhyphen"/>ber-fellow leaving the <hi>Colledge,</hi> and ſome other Obſtacles being happily remov'd, when I was moſt in danger: My Father who ſuſpected nothing, but thought too well of me, thought ſit for other Reaſons I ſhould remove to <hi>Oxford:</hi> Thither I went towards the end of 1660, to <hi>Magdalen-Hall:</hi> Be<g ref="char:EOLhyphen"/>fore that Year expired, I proceeded <hi>Batcheler,</hi> which to Doctors Sons (at leaſt the eldeſt) was then permitted at 12 years ſtanding: Performing the uſual <hi>Exerciſes</hi> on that occaſion, I was unexpectedly engag'd among ſome who were too exceſſively debauch'd for me. they ſtirr'd in me ſome ab<g ref="char:EOLhyphen"/>horrence, as bad as I was, and drove me to better Acquaintance, and God
+<pb n="22" facs="tcp:98627:19"/>caſt me on ſuch as were not only of a better temper, but really Pious, for whom I think my Parent's tincture had in ſome meaſure prepar'd me. I thought ſuch Company wou'd pleaſe them, and (praiſed be God) it ſoon grew pleaſant to my ſelf alſo. By their Converſe eſpecially, and read<g ref="char:EOLhyphen"/>ing good Books (though I alſo heard the beſt Miniſters) thoſe good Prin<g ref="char:EOLhyphen"/>ciples were awaken'd, which my Pa<g ref="char:EOLhyphen"/>rents had ſown, and they ſoon be<g ref="char:EOLhyphen"/>came vigorouſly active for <hi>Repentance</hi> and <hi>ſruitful Obedience.</hi> I reſlected on my <hi>Sins</hi> with ſhame and ſorrow; I oft confeſs'd and bewail'd 'em before God with bitter Anguiſh and deteſta<g ref="char:EOLhyphen"/>tion: They ſoon turn'd my langhing into weeping, my uſual cheanſulneſs into a very ſorrowful medancholy, and fill'd me with Self-abhorrence, Dread, and Horrour. In ſuch a Condition I continued, though mercifully ſup<g ref="char:EOLhyphen"/>ported a long time, getting by de<g ref="char:EOLhyphen"/>grees more gleams of light and inter<g ref="char:EOLhyphen"/>vals of Hope and Comfort. The <hi>Sin</hi> that was moſt troubleſom to undo, was my <hi>taking</hi> (as before) ſeveral Things from others: I thought Re<g ref="char:EOLhyphen"/>ſtitution
+<pb n="23" facs="tcp:98627:19"/>my Duty, though I thought I might <hi>take</hi> as I did to right my ſelf. St. <hi>Auſlin's</hi> ſaying, <hi>Non remittitur pec<g ref="char:EOLhyphen"/>catum, niſi reſtituatur ablatum,</hi> ſtruck me like Tlmnder, and I had no reſt till I parted with all, even with what I had from them that had wrong'd me. But ſhame and inconſideration betray'd me to a courſe that after<g ref="char:EOLhyphen"/>wards encreas'd my trouble: I wrote to one too guilty himſelf, and that had made me worſe: He profeſs'd <hi>Repentance,</hi> and readineſs to aſſiſt and imitate me in Reſtitution: and upon his repeated Engagements, I ſent him all I cou'd think of, not my own in <hi>kind</hi> or <hi>value,</hi> and then was quiet as to that matter: <hi>[How his Friend ſerv'd him, you'll hear anon.]</hi> As to other Faults, my way was plain: I left off every courſe of Sin and Folly, thoſe defended Games which had ſo waſted my time, ſine and faſhionable Clothes, and all bad and vain Company. I grew conſtant in ſecret and publick Duties of Religion, and convers'd with and imitated thoſe I thought moſt ſtrictly good. God's Service was my Deſign, doing good my Work, and in order
+<pb n="24" facs="tcp:98627:20"/>thereto, I grew more and more in<g ref="char:EOLhyphen"/>clin'd to the ſtudy of <hi>Divinity,</hi> and had more delight in the beginning thereof. Many Favours I received from God, among which a lignal De<g ref="char:EOLhyphen"/>liverance of my Chamber-fellow Mr <hi>Foley,</hi> and my ſelf, ought not to be for<g ref="char:EOLhyphen"/>gotten: Waſhing in the River, h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> who cou'd not ſwim, deſir'd me to hold him by the Hair, which while did, ſwimming with my other Arm: we were gotten out of our depths, ſo that at length ſeeking for ground, we both ſunk under water; my eſcape ſeem'd eaſie, but then I loſt him therefore I claſp'd as I cou'd his mid<g ref="char:EOLhyphen"/>dle with my right Arm, and ſo made a ſhift to reach the Shallows. God gave me ſtrength, and kept him, tho his Head was under water, from lay<g ref="char:EOLhyphen"/>ing hold or ſtruggling, which might have deſtroyed us both. <hi>To thee, O Lord, the traiſe; To us thankfulineſs in a fruitful I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe.</hi>
+               </p>
+               <p>After almoſt two Years abode at <hi>Oxfor,</hi> I left that <hi>
+                     <g ref="char:V">Ʋ</g>niverſity</hi> alſo, be<g ref="char:EOLhyphen"/>ing ſent about 7 Months after to <hi>Ley<g ref="char:EOLhyphen"/>den</hi> by my good Father, who was willing I ſhould ſtudy <hi>Phyſick.</hi> Be<g ref="char:EOLhyphen"/>fore
+<pb n="25" facs="tcp:98627:20"/>I went, I underſtood his unfaith<g ref="char:EOLhyphen"/>fulneſs whom I had truſted to right thoſe I had wrong'd; and left with a better Man more than I could think due to any, except thoſe my ſelf righted.</p>
+               <p>In <hi>Holland</hi> I enjoy'd good Compa<g ref="char:EOLhyphen"/>ny, good Miniſtery, and my more intimate Converſe with <hi>P. C.</hi> was uſe<g ref="char:EOLhyphen"/>ful: We only were together in a <hi>Dutch Papiſt</hi>'s Houſe, where he la<g ref="char:EOLhyphen"/>bour'd exceedingly under great Ter<g ref="char:EOLhyphen"/>rours and Sorrows for <hi>Sin;</hi> having many bitter Pangs and long Agonies, with plenty of Tears and Cries: which the <hi>Papiſt</hi> taking notice of, charg'd our <hi>Religion</hi> as uncomfortable. I help'd him as I could: He recovered by de<g ref="char:EOLhyphen"/>grees, yet not fully till after our re<g ref="char:EOLhyphen"/>turn to <hi>England.</hi> My Affection en<g ref="char:EOLhyphen"/>creas'd with his Scriouſneſs, deadneſs to this World, and vigour for a bet<g ref="char:EOLhyphen"/>ter, with the Thought whereof he ſeem'd wholly taken up. His Friends and himſelf at length inclining to his Marriage, at their deſire, I recom<g ref="char:EOLhyphen"/>mended him to a Gentlewoman wiſh'd to me: He was not then accepted, but afterwards reviv'd his Suit, and
+<pb n="26" facs="tcp:98627:21"/>by other help obtain'd her. <hi>I</hi> refus'd to act farther, being diſſatisfied with that change of his Company, Garb, and Carriage, <hi>&amp;c.</hi> that followed his Father's death, and his own remove to <hi>Grey's-Inn.</hi> I had Reaſon to be glad, I did no more: for having obtained the Gentlewoman, (who prov'd de<g ref="char:EOLhyphen"/>ſirable, ſo inclin'd to Vertue, that he profeſs'd he muſt be very faulty, if ſhe prov'd not very good.) He brought her to <hi>Lincoln's-Inn Fields,</hi> engag'd her in vain Company, carried her to <hi>Plays, Entertainments, &amp;c.</hi> I lovingly though plainly repreſented his Faults and Duty, and pray'd for him not without appearance of Succeſs; he removing into the Country and living more reſtrainedly. But he grew ſtrange to me, and <hi>I</hi> have ſome rea<g ref="char:EOLhyphen"/>ſon to fear the worſt. <hi>Thou, O Lord, hear and help, and recover out of the Snare of the Devil.</hi> Keep me (though believing the beſt) from conſidence in Man, and from making of Matches, ſeeing one, of whoſe Piety <hi>I</hi> had ſuch aſſurance, hath ſo groſly fail'd; and let all make me more humble and watchful.</p>
+               <pb n="27" facs="tcp:98627:21"/>
+               <p>
+                  <hi>I</hi> ſaw at <hi>Leyden</hi> and other places, (notwithſtanding their reformed Di<g ref="char:EOLhyphen"/>ſcipline) reaſon enough to love my own Country ſtill better; and there<g ref="char:EOLhyphen"/>fore my inclination to <hi>Divinity</hi> ſtill continuing, though I had made ſome progreſs in <hi>Phyſick,</hi> after about a years abſence, I return'd, 1664, continuing with my Parents at <hi>London,</hi> till the <hi>Plagve</hi> and <hi>Fire</hi> for awhile removed us. <hi>Midſummer,</hi> 1688, we came to <hi>Crouched-Fryars,</hi> and with my Brother was happy in comforting and divert<g ref="char:EOLhyphen"/>ing my Father, till we were Witneſ<g ref="char:EOLhyphen"/>ſes of his bleſſed Departure.</p>
+               <p>He left beſide my ſelf, dear Bro<g ref="char:EOLhyphen"/>ther <hi>Thomas,</hi> born <hi>Apr.</hi> 14, 1648. We always lov'd, and can hardly remem<g ref="char:EOLhyphen"/>ber any quarrel between us. The youngeſt Siſter <hi>Sarah</hi> alſo ſurvived, born <hi>May</hi> 23. — May we ſee her <hi>New-born; May I do my Duty to pro<g ref="char:EOLhyphen"/>mote it!</hi>
+               </p>
+               <p>Soon after my <hi>Father's</hi> death, I was ſeiz'd by a Feavouriſh Diſtemper, ac<g ref="char:EOLhyphen"/>compani'd with Hypochondriac winds, <hi>&amp;c.</hi> which continued, and enforc'd ſe<g ref="char:EOLhyphen"/>rious Conſideration: I found in my ſelf a great change; <hi>Prayer</hi> and <hi>Read<g ref="char:EOLhyphen"/>ing</hi>
+                  <pb n="28" facs="tcp:98627:22"/>had above 7 Years been my con<g ref="char:EOLhyphen"/>ſtant practice: I was temperate in <hi>Meats, Drinks, Apparel, &amp;c.</hi> I hope truly humble; ſcrupulouſly careful to do no wrong, loſing rather. I gave the Poor conſtantly the 10th, and of late the 7th part of my <hi>Income.</hi> Oaths and Curſes which once and again I had been guilty of, I long ſince ab<g ref="char:EOLhyphen"/>horr'd, and could not hear without trouble. Yet I was dejected, that though I had pleas'd and rejoyc'd my <hi>Parents,</hi> I had not been in all things ſo complying as I ſhould; and yet more, becauſe I had not ſo diligently improv'd my Time for God as I might; I hope I heartily repented, denying my ſelf, and bearing Incon<g ref="char:EOLhyphen"/>veniences for my good <hi>Mother,</hi> and re<g ref="char:EOLhyphen"/>ſolving on greater Diligence in doing &amp; getting good. I was likewiſe anxious whether Reſtitution were certainly made for the wrongs I had done in <hi>Cambridge</hi> 10 Years before; and de<g ref="char:EOLhyphen"/>termin'd to enquire and do what was further requiſite. I was ſenſible of the kindneſs of this Affliction in the aforeſaid ſearch and reſolves, and in a farther change of my Temper, grow<g ref="char:EOLhyphen"/>ing
+<pb n="29" facs="tcp:98627:22"/>more meek, humble, and chari<g ref="char:EOLhyphen"/>table: I felt more my own vitious Impotence, and the neceſſity of Di<g ref="char:EOLhyphen"/>vine Grace, as being, having, and do<g ref="char:EOLhyphen"/>ing nothing good, but as the Spirit makes me every moment.</p>
+               <p>Before I recovered from this Sick<g ref="char:EOLhyphen"/>neſs, I was forſaken by my thoughts of <hi>Conforming</hi> (to the eſtabliſh'd <hi>Church,</hi> by ſubmitting to the <hi>Terms impos'd on Miniſters</hi>) to which I had been ſufficiently inclin'd by the Rea<g ref="char:EOLhyphen"/>ſons and Examples of ſeveral pious and judicious Perſons. The formi<g ref="char:EOLhyphen"/>dable Horrours of my Conſcience, the dread of their return by reaſon of ſome doubts I could not well remove, determin'd me rather to a private Life, which I deſir'd to render as uſe<g ref="char:EOLhyphen"/>ful as I might.</p>
+               <p>[<hi>I remember when I was one Day diſ<g ref="char:EOLhyphen"/>courſing him about</hi> Miniſterial Confor<g ref="char:EOLhyphen"/>mity, <hi>he told me, 'Twas the</hi> Declaration <hi>of</hi> Aſſent <hi>and</hi> Conſent <hi>to all things con<g ref="char:EOLhyphen"/>tained in, and preſcribed by the</hi> Book of Common-Prayer, <hi>and the</hi> Form <hi>and</hi> manner <hi>of</hi> Ordaining <hi>and</hi> Conſecra<g ref="char:EOLhyphen"/>ting Biſhops, Prieſts, <hi>and</hi> Deacons, <hi>that he chiefly ſtuck at, and could not
+<pb n="30" facs="tcp:98627:23"/>think that</hi> Declaration <hi>could be ſincerely made by ſuch whoſe Judgments diſap<g ref="char:EOLhyphen"/>prov'd ſo many Things in thoſe</hi> Two Books, <hi>as his did: And he was the more confirm'd in his</hi> Averſion <hi>to ſo enſnaring a</hi> Declaration, <hi>by obſerving ſeveral o<g ref="char:EOLhyphen"/>thers of his Acquaintance that had made it, (though under the ſame diſſatisfaction with himſelf, concerning ſeveral Things contain'd in theſe</hi> Books) <hi>by giving it a looſer Conſtruction than he thought the Words capable of, to become leſs ſtrict and conſcientious in other Duties of Reli<g ref="char:EOLhyphen"/>gion, than they had been before: Which viſible declenſion from their</hi> former ſe<g ref="char:EOLhyphen"/>riouſneſs <hi>and</hi> circumſpection, <hi>he was afraid might flow from their having too far ſuffer'd their Judgment to be ſway'd and byaſs'd by their Intereſt, in a matter of ſo great Importance.</hi>]</p>
+               <p>Hackney, Sept. 10. 1670.</p>
+               <p>I return'd from <hi>Deal</hi> after 3 Days ſtay with my dear Brother going to <hi>Aleppo:</hi> I parted ſadly with one ſo dear in the ſtricteſt bands of Love and Nature; yet we encourag'd our ſelves in our good God, whoſe Favour we had ſo experienc'd together, and hop'd
+<pb n="31" facs="tcp:98627:23"/>we ſhould ſtill enjoy when ſo far a<g ref="char:EOLhyphen"/>ſunder. I deſired all might make me more long and labour after, and pre<g ref="char:EOLhyphen"/>pare for Heaven, where Friends part not bitterly any more, and where <hi>God is All in All for ever.</hi>
+               </p>
+               <p>
+                  <hi>Hackney, Octob.</hi> 11. 1670.</p>
+               <p>I grew ill of a <hi>Quartan Ague,</hi> as it quickly proved: My <hi>Prayers</hi> were for <hi>Chriſtian Patience</hi> and <hi>Wiſdom</hi> to bear the worſt, and make a good Im<g ref="char:EOLhyphen"/>provement of all, <hi>that God might be glo<g ref="char:EOLhyphen"/>rified, my ſelf and others bettered, and Chriſt more comfortably in life and death Advantage.</hi>
+               </p>
+               <p>June 20. 1671.</p>
+               <p>Trying <hi>Enfield</hi>-Air, for removing my <hi>Ague,</hi> I rode into the <hi>Chaſe,</hi> and being among the Trees thoughtful and careleſs, my Horſe by a great and ſud<g ref="char:EOLhyphen"/>den ſtart, turn'd me firſt on his Crup<g ref="char:EOLhyphen"/>per, and ere-long on the ground; yet only tore my Clothes among the Trees and Buſhes. I was forc'd to walk back to Coz. <hi>Farrington</hi>'s, in the heat, which turn'd my expected Cold into a violent Sweat. I deſired thankfully
+<pb n="32" facs="tcp:98627:24"/>to remember that Preſervation in ſuch apparent danger, and to be ſenſible of <hi>God's good Providence,</hi> as oft as I ride, and no ſuch danger appears; and to be ſtill as careful to perform, as <hi>I</hi> was ready to reſolve and vow.</p>
+               <p>
+                  <hi>Hackney, Apr.</hi> 22. 1672.</p>
+               <p>
+                  <hi>Scorbutick Pains</hi> and <hi>melancholy Fumes</hi> much diſcompos'd me, though <hi>I</hi> had no more <hi>Ague-fits, &amp;c.</hi> Yet they were not ſo much my trouble, as the Diſea<g ref="char:EOLhyphen"/>ſes of my Soul: My Prayers were for more Grace, that <hi>I</hi> might not relapſe, but grow my ſelf, and make others alſo more holy; that my Charity might be greater, the Defects there<g ref="char:EOLhyphen"/>of pardon'd; that my own Sins might lye heavier, and Afflictions lighter: — <hi>
+                     <g ref="char:V">Ʋ</g>re, ſeca, Domine, modo non in aeter<g ref="char:EOLhyphen"/>num.</hi>
+               </p>
+               <p>July 26. 1672.</p>
+               <p>
+                  <hi>Melancholy Fumes</hi> exceedingly di<g ref="char:EOLhyphen"/>ſturbed and unſitted my Mind for any Service: <hi>I</hi> doubted <hi>I</hi> ſhould live uſe<g ref="char:EOLhyphen"/>leſs, and apprehended God was ta<g ref="char:EOLhyphen"/>king the forfeiture of thoſe Parts and Abilities <hi>I</hi> had abus'd. <hi>I</hi> prayed for
+<pb n="33" facs="tcp:98627:24"/>Health, and Powers, and Opportu<g ref="char:EOLhyphen"/>nities to ſerve God, and be uſeful to Men, vouching the ſincerity of my Heart; yet preſently retracting, ha<g ref="char:EOLhyphen"/>ving found it ſo deceitful, and be<g ref="char:EOLhyphen"/>ſeeching <hi>Mercy and help for my Savi<g ref="char:EOLhyphen"/>our's ſake.</hi>
+               </p>
+               <p>Though urg'd, and on ſome ac<g ref="char:EOLhyphen"/>counts diſpos'd to Marry, I choſe ra<g ref="char:EOLhyphen"/>ther to continue ſingle, becauſe I fear<g ref="char:EOLhyphen"/>ed ſuch a change would rather hinder God's chearful faithful Service; I ſhould have leſs Time, leſs Mony for good Uſes, and not be in a capacity to embrace ſome mean Opportunity of ſerving God in Publick, like what ſome had, who could not go farther than my ſelf. <hi>I appeal to God, begging his Bleſſing according (as I hop'd) to the uprightneſs of my Heart.</hi>
+               </p>
+               <p>Decem. 30. 1672.</p>
+               <p>I was, I hope, truly deſirous of be<g ref="char:EOLhyphen"/>ing uſeful, and endeavoured by ſeve<g ref="char:EOLhyphen"/>ral ways to help our own Family to<g ref="char:EOLhyphen"/>wards Heaven: I was ſenſible of the Duty and Comfort thereof, and was excited by what I heard of Biſhop <hi>Wilkins,</hi> from ſuch as viſited him
+<pb n="34" facs="tcp:98627:25"/>when he was entring on <hi>Eternity.</hi>
+               </p>
+               <p>
+                  <q rend="margQuotes">He had no anxious Thoughts a<g ref="char:EOLhyphen"/>bout his everlaſting Condition, which (as he ſaid) many others better than himſelf had; He ap<g ref="char:EOLhyphen"/>prov'd his own Moderation and the Eſtabliſhment of the <hi>Church of Eng<g ref="char:EOLhyphen"/>land,</hi> only wiſh'd ſome Things a<g ref="char:EOLhyphen"/>mended, and the Management in the Hands of good and prudent Men. He regarded not his <hi>
+                        <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſal Character,</hi> which had much empair'd his Health; but when ſpoken to about a <hi>Latin Verſion</hi> of it, deſired not to be troubled about it, profeſſing his Comfort and Joy, that ſince his Promotion to <hi>Cheſter,</hi> he had encouraged and furthered <hi>Preaching of Chriſt.</hi>
+                  </q>
+               </p>
+               <p>My Prayers were that I might not be negligent in my own Sphere, but act to the utmoſt of my Power for my Lord's Glory, and my own Com<g ref="char:EOLhyphen"/>fort.</p>
+               <p>
+                  <hi>Hackney, March.</hi> 24.</p>
+               <pb n="35" facs="tcp:98627:25"/>
+               <p>
+                  <hi>I</hi> was ſtrangely troubled on a ſmall occaſion; a Friend having ſome diſ<g ref="char:EOLhyphen"/>courſes of a good deceaſed <hi>Biſhop S.</hi> — and it being judg'd expedient to make 'em publick, I deliver'd 'em to a <hi>Book<g ref="char:EOLhyphen"/>ſeller,</hi> who having Printed one with<g ref="char:EOLhyphen"/>out <hi>Licence,</hi> was afraid to Sell it. I was not concern'd however, knowing the Diſcourſe inoffenſive to my Supe<g ref="char:EOLhyphen"/>riours. But I was quickly troubled that I did not my own Work, nor as <hi>I</hi> wou'd be done to, Publiſhing what the worthy <hi>Author</hi> had kept private, and without their leave that had right to it, (as poſſibly ſome had) and oc<g ref="char:EOLhyphen"/>caſioning others to break the Laws in Printing without <hi>Licence. I</hi> endea<g ref="char:EOLhyphen"/>vour'd to calm the Storm, but it ra<g ref="char:EOLhyphen"/>ged the more, till <hi>I</hi> cou'd neither wake nor ſleep, talk nor cat in quiet; nor was it laid till <hi>I</hi> took off and made away the <hi>Impreſſion,</hi> and return'd my Friend the other <hi>Writings. I</hi> deſired to learn how conſtantly <hi>I</hi> depended on God, and without his good Pro<g ref="char:EOLhyphen"/>vidence, ſhou'd daily break my peace, and deſtroy my ſelf: And <hi>I</hi> reſolved, ſince ſo ſmall a Failure had coſt me ſo dear, <hi>I</hi> would be more watchful a<g ref="char:EOLhyphen"/>gainſt
+<pb n="36" facs="tcp:98627:26"/>all Degrees of <hi>Sin,</hi> and do no<g ref="char:EOLhyphen"/>thing without more Deliberation and Prayer.</p>
+               <p>
+                  <hi>Hackney, April</hi> 10. 1673.</p>
+               <p>By a Letter from the Lord <hi>Drum<g ref="char:EOLhyphen"/>mond,</hi> Son to the Earl of <hi>Perth,</hi> writ<g ref="char:EOLhyphen"/>ten at the requeſt of my dying Friend Mr. <hi>Patrick Drummond; I</hi> had ſome account of his laſt Hours, full of Hea<g ref="char:EOLhyphen"/>venly Expreſſions, concerning the <hi>Love of God,</hi> and of affectionate <hi>Pray<g ref="char:EOLhyphen"/>ers</hi> for his Friends, and particularly for my ſelf; <hi>Which, O Lord, anſwer!</hi> About 18 or 19 Years before, the Ca<g ref="char:EOLhyphen"/>lamities of his Country having driven him up to <hi>London,</hi> where he was well entertain'd by my Uncle <hi>Bewley,</hi> to Teach his Son; <hi>I</hi> likewiſe was a with his Care, and he conſidently <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>I</hi> wou'd ſtudy <hi>Divinity:</hi> and though my Inclination and Carriage afterwards, eſpecially at <hi>Cambridge,</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> my Friends and ſelf judge he was miſtaken; yet he perſiſted in the ſame Opinion, and liv'd to rejoyce with my ſelf in the Event. <hi>May my dear Friend's Memory be ſweet and uſe<g ref="char:EOLhyphen"/>ful as to my ſelf, ſo to his other Friends,
+<pb n="37" facs="tcp:98627:26"/>and particularly to that</hi> Lord, <hi>who ſa<g ref="char:EOLhyphen"/>vour'd me with this Account.</hi> My Friend was wont to expreſs a great Honour for, and Hope of him, eſpecially for <hi>Religion. May he ſtill exceed himſelf, honour God, and be uſeful in his Coun<g ref="char:EOLhyphen"/>try; and do the more good, becauſe (alas) ſo many do none, or worſe. O that God would change them, and make more</hi> great Perſons Great <hi>and</hi> Publick Bleſſings, <hi>for our dear Saviour's ſake.</hi>
+               </p>
+               <p>Hackney, May 22. 1673.</p>
+               <p>
+                  <hi>I</hi> had groaned many Days under great trouble of Mind, occaſion'd at firſt by ſome diſcourſe about <hi>Sacri<g ref="char:EOLhyphen"/>ledge,</hi> and a Story of Dr. <hi>Holdſworth,</hi> who hearing one expreſs great hopes of good from the <hi>long Parliament;</hi> he reply'd, <hi>He wou'd have none expect it, ſince</hi> Parliaments <hi>ſo ſacrilegiouſly aliena<g ref="char:EOLhyphen"/>ted</hi> Church-Lands. <hi>I</hi> think <hi>I</hi> had heard as much formerly without being con<g ref="char:EOLhyphen"/>cern'd, but now <hi>I</hi> immediately appre<g ref="char:EOLhyphen"/>hended, <hi>If the Alienation were ſinful, ſo was the detention; and thence I might be<g ref="char:EOLhyphen"/>come guilty of</hi> Sacriledge, <hi>if I ſhould en<g ref="char:EOLhyphen"/>joy an Eſtate taken long ſince from the</hi> Hoſpital <hi>of St.</hi> Bartholomew <hi>the Leſs, in</hi>
+                  <pb n="38" facs="tcp:98627:27"/>Smithfield, <hi>bought by my Father at a<g ref="char:EOLhyphen"/>bove</hi> 20 <hi>Years purchace, after divers pre<g ref="char:EOLhyphen"/>ceding Alienations, and left by him after my Mother's Life to me.</hi>
+               </p>
+               <p>My Terrours encreas'd by reading about <hi>Sacriledge,</hi> the <hi>Forms of ancient Dedication,</hi> with <hi>Curſes, &amp;c.</hi>
+                  <note n="*" place="margin">Of his ſe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ion in <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>fer<gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> to this ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ter; ſee afterwards.</note>
+               </p>
+               <p>Thence <hi>Conſcience</hi> ran backward, examin'd the material Paſſages of my Life, rack'd me with tormenting Scruples about Matters of <hi>Meum</hi> &amp; <hi>Tuum,</hi> and ſill'd me with frightful Re<g ref="char:EOLhyphen"/>preſentations not only of my <hi>quondam Cambridge Sinful-follies,</hi> but of my fol<g ref="char:EOLhyphen"/>lowing <hi>Actions,</hi> for <hi>Father</hi> and <hi>Self,</hi> (in reference to the forementioned E<g ref="char:EOLhyphen"/>ſtate:) So that <hi>I</hi> was ſtrangely jea<g ref="char:EOLhyphen"/>lous <hi>I</hi> had ſome way done amiſs, tho' very conſident that ſince my <hi>Repent<g ref="char:EOLhyphen"/>ing</hi> and <hi>Reſtoring</hi> (1661. 12 Years be<g ref="char:EOLhyphen"/>fore) <hi>I</hi> had ever ſtudiouſly and ſcru<g ref="char:EOLhyphen"/>pulouſly endeavour'd to do as <hi>I</hi> wou'd be done unto. Nor could <hi>I</hi> ſix on any particular Failure, unleſs on ſelling two Horſes laſt Year<note n="*" place="margin">Of this alſo after<g ref="char:EOLhyphen"/>wards.</note>. Then <hi>I</hi> queſtion'd whether my Attempts to ſatisfie ſuch as <hi>I</hi> had wrong'd (while at <hi>Cam<g ref="char:EOLhyphen"/>bridge</hi>) had ſucceeded; and St. <hi>Au<g ref="char:EOLhyphen"/>ſtin</hi>'s Saying, <hi>Non remittitur, &amp;c.</hi> made
+<pb n="39" facs="tcp:98627:27"/>me tremble. <hi>I</hi> alſo fear'd <hi>I</hi> had pro<g ref="char:EOLhyphen"/>fan'd the <hi>Lord's Supper:</hi> and when on ſearch I began to hope <hi>I</hi> had not, I charg'd my ſelf with raſh preſumpti<g ref="char:EOLhyphen"/>on, in thinking of ſo high and holy a Calling (as the <hi>Miniſtry</hi>) which ſuch baſe former Sins wou'd diſgrace. My Perplexities were lamentable: I had recourſe to God by <hi>Prayer,</hi> though not ſufficiently frequent and fervent; and <hi>I</hi> conſulted his <hi>Word</hi> and <hi>Ser<g ref="char:EOLhyphen"/>vants.</hi>
+               </p>
+               <p>
+                  <hi>I</hi> could not find it was any Sin for me who had ſinned ſo much, and per<g ref="char:EOLhyphen"/>haps hardned ſome, to endeavour the reclaiming of others: I found great Sinners had been (after <hi>Converſion</hi>) us'd by the Holy God as <hi>choſen In<g ref="char:EOLhyphen"/>ſtruments of his Grace;</hi> and remem<g ref="char:EOLhyphen"/>bred many late Examples guilty of Sins materially equal, if not greater than mine, whom yet God bleſt with eminent <hi>Succeſs</hi> and <hi>Comfort.</hi>
+               </p>
+               <p>My fear of diſgracing <hi>Religion</hi> ſeem<g ref="char:EOLhyphen"/>ed very unreaſonable; the Sins known to few, very few and far off, ſo many Years ſince repented of and forſaken! and my <hi>Converſation</hi> (though needing manifold pardon from God) having
+<pb n="40" facs="tcp:98627:28"/>long gain'd too favourable a Repute among Men. Therefore though moſt unworthy to be honoured by God, to do him any Service towards the Sal<g ref="char:EOLhyphen"/>vation of any poor Creature; yet I could not but think it lawful, yea my Duty to endeavour it to the utmoſt of my Capacity and Power; and there<g ref="char:EOLhyphen"/>on reſolv'd to reject and reſiſt ſuch Suggeſtions as Temptations to Sin againſt my Duty.</p>
+               <p>
+                  <hi>[As to the Reſtitution wherein his Friend had ſo unworthily diſappointed him, he here ſets down all the Particulars wherein he could remember any wrong'd, and by whom he had made Reſtitution in all more than double the value, and in moſt much more, and thus concludes.]</hi>
+               </p>
+               <p>Thus for leſs than 4. <hi>l.</hi> at the utmoſt value, I paid with a great deal of ſhame &amp; trouble about 15 <hi>l.</hi> and I gave 20 <hi>l.</hi> extraordinary to the <hi>Poor.</hi> I would all that wrong'd me knew I forgave them, though none made me Satisfaction, except 3 <hi>l.</hi> from one that deſir'd to be conceal'd, were on that account.</p>
+               <pb n="41" facs="tcp:98627:28"/>
+               <p>Some Advantage I found by my Troubles in this Affair.</p>
+               <p n="1">1. I found much Pride within me, and was hereby made baſe and vile in my own Eyes, and willing to be ſo in others.</p>
+               <p n="2">2. I minded too much what was leſs needful, and theſe Diſtractions drave me to the <hi>Eſſentials of Religion,</hi> and made me mind them more.</p>
+               <p n="3">3. I was more convinc'd of my own Impotency and Nothingneſs, and of my conſtant dependance on God for Duty and Comfort: I found <hi>Reaſons</hi> and <hi>Arguments</hi> nothing till God en<g ref="char:EOLhyphen"/>abled me after another manner to ap<g ref="char:EOLhyphen"/>ply them.</p>
+               <p n="4">4. I was more ſenſible of the Ne<g ref="char:EOLhyphen"/>ceſſity and Uſe of <hi>Prayer.</hi>
+               </p>
+               <p n="5">5. I underſtood better the condi<g ref="char:EOLhyphen"/>tion of the <hi>Scrupulous,</hi> that their Trou<g ref="char:EOLhyphen"/>bles were not to be ſlighted as pro<g ref="char:EOLhyphen"/>ceeding from <hi>Weakneſs</hi> and <hi>Folly;</hi> but to be tenderly manag'd: and that the <hi>withdrawings of the Spirit are ſomething beſide Melancholy,</hi> though that may be joyn'd with them.</p>
+               <p n="6">6. I was warn'd byall to walk more <hi>circumſpectly,</hi> that I might not provoke
+<pb n="42" facs="tcp:98627:29"/>my Heavenly Father thus to chaſten me: and inſtead of Controverſies, eſ<g ref="char:EOLhyphen"/>pecially about ſmall and myſterious Matters, to ſtudy more the practical <hi>Life of Faith in nearer Communion with the bleſſed Fountain of Holineſs, Peace, and Joy.</hi>
+               </p>
+               <p>My Scruples about the Horſes I ſold had as little grounds as almoſt any other. I repeated my Charge to thoſe that ſold them, to ſpeak truth, neither denying nor uſing any means to conceal any Fault: Only I doubt<g ref="char:EOLhyphen"/>ed I was not ſufficiently careful to have the Buyers acquainted with all I knew my ſelf. It being the Rule of an Heathen, <hi>Tully; Ne quid omnino quod venditor novit, em<g ref="char:EOLhyphen"/>ptor ignoret.</hi> Yet I could not learn the Buyers were damag'd, nor ſay they paid too dear; and good Men laugh'd at my Scruples, profeſſing themſelves would do as I had done.</p>
+               <p>
+                  <hi>[How happy were civil Societies, if all acted in their Contracts with ſo ſtrict and conſcientious Juſtice! The compre<g ref="char:EOLhyphen"/>henſive Rule of Righteouſneſs between
+<pb n="43" facs="tcp:98627:29"/>Man and Man, deliver'd by our Savi<g ref="char:EOLhyphen"/>our,</hi> Matth 7. ver. 12. <hi>includes this of</hi> Tully <hi>as one branch of it. What a vile Reproach is it then to the</hi> Chriſtian Pro<g ref="char:EOLhyphen"/>feſſion, <hi>that ſo many thouſands that make it, ſhould in their Dealings fall ſhort of the Rules of Juſtice laid down by an Heathen Moraliſt.]</hi>
+               </p>
+               <p>As to the danger of <hi>Sacriledge,</hi> which gave the firſt Alarm, old Evi<g ref="char:EOLhyphen"/>dences ſhew'd, that about or above 130 Years before 1673. <hi>Duckets</hi> be<g ref="char:EOLhyphen"/>long'd to the <hi>little Hoſpital of St. Bar<g ref="char:EOLhyphen"/>tholomew</hi> in <hi>Weſt-Smithfield,</hi> and was Leas'd by the Maſter and Brethren for 10 <hi>l. per annum,</hi> and ſome Money towards Repair of their <hi>Church,</hi> and Relief of their <hi>Poor.</hi> The Reſult of my <hi>Reading, Conſideration</hi> and <hi>Prayer,</hi> was to this effect:</p>
+               <p n="1">1. <hi>The firſt Alienation did not appear to be</hi> Sacriledge; <hi>i. e.</hi> A ſtealing or converting to their own uſe what was <hi>Sacred,</hi> lawfully ſet apart to God, nor yet robbing of the <hi>Poor.</hi>
+               </p>
+               <p n="2">2. <hi>There wanted Evidence of a right Dedication to God, directed and accepted by him.</hi> To paſs by the Cenſers of
+<pb n="44" facs="tcp:98627:30"/>
+                  <hi>Corah, &amp;c. Num.</hi> 16.16, 17.37, 38. if not <hi>hallow'd</hi> at firſt by particular <hi>Di<g ref="char:EOLhyphen"/>vine Appointment:</hi> yet afterwards as a <hi>Monument</hi> of their <hi>Sin</hi> and <hi>Puniſh<g ref="char:EOLhyphen"/>ment,</hi> there were expreſs Commands, or at leaſt ſufficient general Directions which regulated the ſeparating of Things to God; and what was ſet a<g ref="char:EOLhyphen"/>part agreeably to ſuch Warrants, was <hi>ſacred,</hi> and belonged to God indeed. Thus <hi>Tythes, Cities</hi> and <hi>Suburbs</hi> for the <hi>Prieſts</hi> and <hi>Levites</hi> under the <hi>Law</hi> were <hi>holy,</hi> (if not the former with <hi>Houſes</hi> and <hi>Glebes</hi> for Miniſters alſo under the <hi>Go<g ref="char:EOLhyphen"/>ſpel</hi>) and ſo were the <hi>Firſt-Fruits,</hi> and other commanded and directed <hi>Offer<g ref="char:EOLhyphen"/>ings.</hi> But Hiſtories make it doubtful whether what was <hi>ſeparated</hi> in thoſe <hi>dark times,</hi> was according to any ſuf<g ref="char:EOLhyphen"/>ficient <hi>Divine Warrant</hi> and <hi>Direction;</hi> or rather from the cheating Extor<g ref="char:EOLhyphen"/>tion of <hi>covetous Prieſts,</hi> and the ſuper<g ref="char:EOLhyphen"/>ſtitious Errors of <hi>ignorant Laicks,</hi> with<g ref="char:EOLhyphen"/>out <hi>Scripture-Rule</hi> or <hi>End;</hi> too oft 'tis to be fear'd not more acceptable to God, than what he forbad of old, <hi>the hire of a Whore,</hi> or <hi>the price of a Dog.</hi>
+               </p>
+               <pb n="45" facs="tcp:98627:30"/>
+               <p n="2">2. <hi>Alienations were exceſſive, contra<g ref="char:EOLhyphen"/>ry to the common good; Therefore though they had been otherwiſe regular, not al<g ref="char:EOLhyphen"/>low'd, and conſequently not accepted by God.</hi> He bounded <hi>Dedication</hi> of old, and it was not lawful to exceed the meaſure in what he moſt expreſly re<g ref="char:EOLhyphen"/>quir'd. When the People had offer'd enough for the <hi>Tabernacle,</hi> they were forbid to bring any more. <hi>Levi</hi> was to have no Inheritance, only Dwel<g ref="char:EOLhyphen"/>lings with Fields ſo many Cubits round. The Reaſons of ſuch Com<g ref="char:EOLhyphen"/>mands hold, clearing and ſtrengthning the <hi>Law of Nature,</hi> and <hi>Statutes</hi> of <hi>Mortmain, &amp;c.</hi> againſt exceſſive <hi>Alie<g ref="char:EOLhyphen"/>nations</hi> to religious or charitable Uſes; and for tranſlating what was ſuperſti<g ref="char:EOLhyphen"/>tious, noxious, and therefore unlaw<g ref="char:EOLhyphen"/>fully ſeparated. Such ſeems to have been our caſe. The <hi>Clergy</hi> exceſſive<g ref="char:EOLhyphen"/>ly ſupernumerary and debauch'd, and as exceſſively endow'd; Though not an <hi>hundred part</hi> of the Kingdom, yet having, as was computed, a <hi>fifth,</hi> (nay, as ſome, a <hi>fourth part</hi> or more) of the prime Lands thereof. Such vaſt ſu<g ref="char:EOLhyphen"/>perfluous Revenues might be judg'd rather a <hi>provocation</hi> of God, than an
+<pb n="46" facs="tcp:98627:31"/>acceptable <hi>Dedication</hi> to him: and therefore ought to be remov'd into a righter Channel. Hence they that alienated ſuch Lands, might not dread thoſe <hi>terrible Curſes</hi> inſerted in the de<g ref="char:EOLhyphen"/>dication of them, or otherwiſe thun<g ref="char:EOLhyphen"/>der'd out againſt the <hi>Alienators</hi> there<g ref="char:EOLhyphen"/>of. If God had bid 'em curſe, or in ſome caſes from <hi>Superiours</hi> or <hi>Parents,</hi> 'twere <hi>dreadful.</hi> But when ſuch <hi>Cur<g ref="char:EOLhyphen"/>ſes</hi> proceed from <hi>Errour,</hi> are <hi>unjuſt</hi> and <hi>uncharitable,</hi> Prov. 26.2. like a <hi>reſtleſs Bird</hi> flying fearfully away; the <hi>cauſleſs Curſe,</hi> as if afraid to come near the Innocent, <hi>ſhall be far off,</hi> never hurt; therefore ſhould not be ſuper<g ref="char:EOLhyphen"/>ſtitiouſly regarded.</p>
+               <p n="2">2. <hi>If any of thoſe Lands were unlaw<g ref="char:EOLhyphen"/>fully alienated, and Reſtitution there<g ref="char:EOLhyphen"/>fore a Duty: they that order'd and acted were the Perſons bound to it;</hi> or they being long dead, My Lord <hi>Bacon</hi> (as I remember) thought that following <hi>Parliaments</hi> were concern'd; not par<g ref="char:EOLhyphen"/>ticular Perſons, who may lawfully poſſeſs what was at firſt unlawfully alienated upon <hi>preſcription, purchace, &amp;c. Judg.</hi> 11. with <hi>Deut.</hi> 2. Though the <hi>Iſraelites</hi> were not to meddle with
+<pb n="47" facs="tcp:98627:31"/>the <hi>Moabites</hi> or <hi>Ammonites,</hi> nor to have any of their Land for a Poſſeſſi<g ref="char:EOLhyphen"/>on; yet having taken a large <hi>Country</hi> from the <hi>Amorites,</hi> of which they had diſpoſſeſſed the other, <hi>Jephtha</hi> juſti<g ref="char:EOLhyphen"/>fied the keeping of it againſt the claim of the King of the <hi>Ammonites,</hi> (and it ſeems of the <hi>Moabites</hi> alſo, (or at leaſt confederate with them) by a threefold Plea: 1. That the Country was taken from <hi>Sihon</hi> and his <hi>Amorites,</hi> and not from the <hi>Moabites</hi> or <hi>Ammo<g ref="char:EOLhyphen"/>nites.</hi> 2. They gain'd it in a juſt War approv'd by God, <hi>Joſh.</hi> 13.24. 3. They had long enjoy'd it, towards 300 years, the round Summ mentioned.</p>
+               <p>I thought I might make the like defence.</p>
+               <p>This Eſtate belong'd to Sir <hi>Stephen Scot</hi>'s Heirs, after various preceding Alienations by Purchace, Deſcent, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2. 'Twas purchas'd by my Father in the ſimplicity of his heart at a full Price; and if I ſurviv'd my Mother, would fairly deſcend to me.</p>
+               <p n="3">3. It had been enjoy'd towards 140 Years, ſince taken from the <hi>Hoſ<g ref="char:EOLhyphen"/>pital,</hi> a larger preſcription than uſual<g ref="char:EOLhyphen"/>ly
+<pb n="48" facs="tcp:98627:32"/>requir'd to conſirm Eſtates; <hi>Poſſeſ<g ref="char:EOLhyphen"/>ſiones five privatae ſive publicae praeſcrip<g ref="char:EOLhyphen"/>tione longi temporis confirmantur.</hi> Elſe there would be no end of Scruples, Contention, and Confuſion.</p>
+               <p n="3">3. Reſtitution was made in full meaſure by King <hi>Edward</hi> the Sixth, the <hi>Hoſpital</hi> advanc'd to a better Con<g ref="char:EOLhyphen"/>dition, and the <hi>Church</hi> to a <hi>Pariſh-Church.</hi>
+               </p>
+               <p>
+                  <label>
+                     <hi>Weaver</hi>'s Funeral Monu<g ref="char:EOLhyphen"/>ments.</label>
+                  <q rend="margQuotes">The Hoſpital of little St. <hi>Bar<g ref="char:EOLhyphen"/>tholomew</hi> in <hi>Weſt Smithfield,</hi> for the Poor and Diſeaſed, found<g ref="char:EOLhyphen"/>ed by <hi>Raherne</hi> firſt Prior, and Founder of the Priory of Great St. <hi>Bartholomew,</hi> to be govern'd by a Maſter and Eight Brethren Prieſts; (as <hi>Speed, black</hi> Ca<g ref="char:EOLhyphen"/>nons) for the Church, and Four Siſters, to ſee the Poor ſerv'd, va<g ref="char:EOLhyphen"/>lued at the Suppreſſion at <hi>305 l.</hi> 6 <hi>s.</hi> 7 <hi>d.</hi>
+                  </q>
+               </p>
+               <pb n="49" facs="tcp:98627:32"/>
+               <p>Speed <hi>agrees, naming the laſt</hi> Prior Balton <hi>for a great Benefactor.</hi>
+               </p>
+               <p>
+                  <label>Stow<hi>'s</hi> Survey.</label>
+                  <q rend="margQuotes">
+                     <hi>Hoſpital of St.</hi> Bartholomew <hi>valued at the Suppreſſion,</hi> 1539. 31 <hi>of H.</hi> 8. <hi>at</hi> 305 l. 6 s. 7 d. <hi>Reſtored</hi> 1546. <hi>by King</hi> Edward <hi>the Sixth, with the Meſſuages of</hi> Gilt-Spur-Street, Burton-Street, Peter-Key, <hi>Old</hi> Fiſh-Street, <hi>and St.</hi> Bennet, Hulda Limehurſt, <hi>in</hi> Stepney, <hi>beſides very large Collections from the Citizens, ſo that it was New-built</hi> 1553. <hi>ſince much augmented.</hi>
+                  </q>
+               </p>
+               <p>So that what-ever was the firſt <hi>De<g ref="char:EOLhyphen"/>dication,</hi> beſides all to be ſaid for the exceſſive Alienation of <hi>Mortmains,</hi> and yet more for retaining after ſo long a <hi>Preſcription,</hi> ſeeing the <hi>Church</hi> was re<g ref="char:EOLhyphen"/>ſtor'd, if not continued to the <hi>Pariſh,</hi> and in 7 Years the <hi>Hoſpital</hi> alſo Re<g ref="char:EOLhyphen"/>built, and better Endow'd out of King <hi>Edward</hi>'s Eſtate, and by his Influence:
+<pb n="50" facs="tcp:98627:33"/>I thought I had no occaſion to ſcruple the enjoyment of <hi>Duckets,</hi> if it ſhould deſcend to me: as many better than I, enjoy without ſcruple Eſtates, for which they have not ſo much to ſay.</p>
+               <p>
+                  <hi>Hackney, March</hi> 31. 1674.</p>
+               <p>My Days were checquer'd with Duties and Failings, Hopes and Fears, Joys and Griefs: My Deſires, and, I hope, ſincere Endeavours, were for ſtronger Reſolutions, more vigorous and lively Affections, ardenter Love, and ſweeter Joy in a holy dependance on, Reſignation and Obedience to my God, that I might through Grace write down more matter of Praiſe and Joy in perpetual well-doing; <hi>for my deareſt Saviour's ſake.</hi>
+               </p>
+               <p>Hackney, July 28. 1674.</p>
+               <p>I had in ſome ſincere manner (I hope) ſerved God, and ſtill mourn'd after a publick Opportunity in any tolerable Circumſtances, on ſuch terms as I could come up to, like what I heard ſome (though ſtraiter than I) enjoy'd. I was willing to take <hi>Epiſcopal Orders,</hi> if I could have had
+<pb n="51" facs="tcp:98627:33"/>them; but did not think 'em abſolute<g ref="char:EOLhyphen"/>ly neceſſary to occaſional Preaching under ſome publick Miniſter, which I would have reſted and rejoyc'd in; an uſeleſs life being very burdenſom. I thought God call'd me to ſerve him as I could: I had enough of ſuch Te<g ref="char:EOLhyphen"/>ſtimonies as the Biſhops uſually re<g ref="char:EOLhyphen"/>quir'd. I was far from ſlighting the ſolemn Inveſting Rite, very ready to ſeek it of them, when judg'd attain<g ref="char:EOLhyphen"/>able and expedient in my Circumſtan<g ref="char:EOLhyphen"/>ces. I had likewiſe obſerv'd it ordi<g ref="char:EOLhyphen"/>nary in the <hi>
+                     <g ref="char:V">Ʋ</g>niverſities</hi> to Preach long without <hi>Orders</hi> as <hi>Probationers, &amp;c.</hi> and accordingly thought my ſelf oblig'd not to refuſe any inoffenſive opportunity of doing good by Preach<g ref="char:EOLhyphen"/>ing, where it was wanted, particular<g ref="char:EOLhyphen"/>ly for our aged Vicar Mr. <hi>Timpſion,</hi> who greatly needed help, and had ſometimes no better than mine.</p>
+               <p>
+                  <hi>Hadley, Decem.</hi> 11. 1674.</p>
+               <p>Having on repeated Invitation ta<g ref="char:EOLhyphen"/>ken a Journey to <hi>Glaſtenbury</hi> near <hi>Cranbroke</hi> in <hi>Kent;</hi> I had there pro<g ref="char:EOLhyphen"/>poſed for a Wife, Mrs. <hi>Bridget Ro<g ref="char:EOLhyphen"/>berts,</hi> Daughter to the <hi>Lady</hi> of that
+<pb n="52" facs="tcp:98627:34"/>Name. I was little (if at all) affect<g ref="char:EOLhyphen"/>ed with the Honour, nor was the Por<g ref="char:EOLhyphen"/>tion ſo great as I had been tempted with elſewhere: But there was deſi<g ref="char:EOLhyphen"/>rable aſſurance of Piety, Humility, good Temper, Induſtry, and Fruga<g ref="char:EOLhyphen"/>lity, and withal a fairer Opportunity of inoffenſive Uſefulneſs than had yet offer'd in my Circumſtances.</p>
+               <p>
+                  <hi>[After ſome account of his Courtſhip, and the Remora's he met with, but at laſt overcame in it, he adds.]</hi>
+               </p>
+               <p>
+                  <hi>Tueſday, Octob.</hi> 5. 1675. we were Married in <hi>Glaſlenbury-Chappel,</hi> my ſelf at the end of my 32d. Year, my Wife not 18. by Mr. <hi>Monckton</hi> Vicar of <hi>Brenchly,</hi> Sir <hi>Thomas</hi> giving her, her Mother, other Brother and Siſter, and a few beſides preſent. I praiſed God who had enabled us to follow him our Ruler, Guide, and End; and had at length clear'd our way, and brought us into that near relation. I pray'd it might be ſanctified and im<g ref="char:EOLhyphen"/>prov'd to the great ends which I hope we ſincerely aim'd at.</p>
+               <p>All this while I endeavour'd, not without ſome ſincceſs, that others
+<pb n="53" facs="tcp:98627:34"/>might be the better, not the worſe for me.</p>
+               <p>
+                  <hi>May</hi> 29. 1676. <hi>Glaſtenbury.</hi>
+               </p>
+               <p>On my return, I ſet about doing good in the Family and Neighbour<g ref="char:EOLhyphen"/>hood, having ſeriouſly conſider'd my Duty to God, my Superiours, and others, and likewiſe their Circum<g ref="char:EOLhyphen"/>ſtances among whom <hi>I</hi> was then to live.</p>
+               <p>The Family and others accuſtom'd to the old Chappel at <hi>Glaſtenbury,</hi> be<g ref="char:EOLhyphen"/>ing two Miles or more from the Church, prejudic'd againſt the eſta<g ref="char:EOLhyphen"/>bliſh'd Worſhip, and the next Mini<g ref="char:EOLhyphen"/>ſter, the Vicar of <hi>G</hi>—, eſpeci<g ref="char:EOLhyphen"/>ally <hi>Th.</hi> a drunken impertinent Sot, that diſtaſted many conformable e<g ref="char:EOLhyphen"/>nough, and made 'em approve more private Help. I ſtill dealt openly as I had done before Marriage, decla<g ref="char:EOLhyphen"/>ring my deſire of more publick Ser<g ref="char:EOLhyphen"/>vice, readineſs to read <hi>Common Prayer,</hi> almoſt all, going ſometimes to the neighbouring Churches, and joyning in the <hi>Liturgy;</hi> and letting them know my practice of Communicating, and that kneeling. I drew none to
+<pb n="54" facs="tcp:98627:35"/>our private Meeting, but blam'd ſuch as came from good Miniſters, pro<g ref="char:EOLhyphen"/>feſſing I would not keep up a ſeparate Congregation, but only while it ap<g ref="char:EOLhyphen"/>pear'd expedient help for ſuch as were ſo ill provided. I proceeded with more Confidence and Comfort, becauſe I had no trouble, nor heard of any diſ<g ref="char:EOLhyphen"/>like from the more conformable Neighbours, and was more confirm'd in the moderate courſe I had taken by the impotent Cenſures of ſome un<g ref="char:EOLhyphen"/>charitable Perſons. My Prayers were to <hi>know my Duty, and do it, pleaſing God, though I diſpleas'd Man.</hi>
+               </p>
+               <p>Glaſtenb. Sept. 20. 1676.</p>
+               <p>
+                  <hi>[He here gives ſome Account of ſome Scruptes about his Wife's Portion, occa<g ref="char:EOLhyphen"/>ſion'd by a Report of her great Grand<g ref="char:EOLhyphen"/>father dying in Debt, and the clear Sa<g ref="char:EOLhyphen"/>tisfacti<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e attain'd upon an exact En<g ref="char:EOLhyphen"/>quiry into that Affair.]</hi>
+               </p>
+               <p>I was alſo thankful for God's Aſ<g ref="char:EOLhyphen"/>ſiſtance in doing good, for Health and Eye-ſight, Love, and Kindneſs in my Relations, Succeſs of my Affairs, mi<g ref="char:EOLhyphen"/>rigating, ſhortning, and ſanctifying
+<pb n="55" facs="tcp:98627:35" rendition="simple:additions"/>Troubles, <hi>&amp;c.</hi> My Prayerers were for <hi>Encreaſe of Grace and Comfort, for more of the true Chriſtian Spirit of Love to all, even to the <g ref="char:V">Ʋ</g>njuſt and <g ref="char:V">Ʋ</g>nkind, that Love might be the commanding frame and temper of my Soul.</hi>
+               </p>
+               <p>Glaſtenb. July 5. 1677.</p>
+               <p>Troubleſome cenſorious dividing Spirits had occaſion'd more thoughts of thoſe unhappy Controverſies about <hi>Forms, Ceremonies, Church-Government, &amp;c.</hi> And I was ſtill more ſatisfied, even when moſt ſerious, that the bit<g ref="char:EOLhyphen"/>ter extreams of <hi>Diſſenters, (as well as of rigid Conformiſis)</hi> were very diſ<g ref="char:EOLhyphen"/>pleaſing to God: That <hi>Spiritual Pride, narrow-ſpirited miſtakes,</hi> and <hi>grievous wreſting of the holy Scriptures,</hi> were the evil roots of unchriſtian Diviſions and real Schiſins: I was much troubled at ſuch Uncharitable and Love-killing Principles and Practices; yet had cauſe to be thankful that there was more Light and Love amongſt thoſe that came to the Meeting at <hi>Glaſtenbury,</hi> which I ſtill endeavour'd to en<g ref="char:EOLhyphen"/>creaſe.</p>
+               <pb n="56" facs="tcp:98627:36"/>
+               <p>I thankfully hop'd I had not been wholly unfruitful, and own'd God's very gracious Dealings in all my Af<g ref="char:EOLhyphen"/>flictions in many reſpects, particularly for regarding my Weakneſs, remo<g ref="char:EOLhyphen"/>ving one trouble before another came, and ſupporting under all.</p>
+               <p>Again, <hi>Praiſes for comfortable Con<g ref="char:EOLhyphen"/>verſe, Succeſs in my Affairs, ſome pro<g ref="char:EOLhyphen"/>greſs in getting and doing good, and a life of Love, in ſome meaſure, according to God's Ordinance, with my Dear for two Years paſt.</hi>
+               </p>
+               <p>Glaſtenb. Sept. 22. 1679.</p>
+               <p>I was awaken'd the beginning of the Year by apprehenſion of greater Afflictions which I attempted to pre<g ref="char:EOLhyphen"/>pare for: I found I thought matter for <hi>Praiſes,</hi> in what I had been and done, to be ſure in many Favours for Body and Soul, which I was concern'd more thankfully to improve. I was ſeveral times ſtill more affected with the encreaſing woful Effects of <hi>Church-Divſions.</hi> I thought (and think ſtill) I might appear to <hi>God,</hi> his <hi>Word</hi> was my <hi>Rule</hi> for <hi>Peace,</hi> which by <hi>Study</hi> and <hi>Prayer</hi> I endeavour'd to under<g ref="char:EOLhyphen"/>ſtand;
+<pb n="57" facs="tcp:98627:36"/>but I could not judge concur<g ref="char:EOLhyphen"/>rence with narrow-ſoul'd unreaſon<g ref="char:EOLhyphen"/>able Enemies of Peace, any other than Conſpiracy againſt it. I therefore openly and honeſtly diſown'd and op<g ref="char:EOLhyphen"/>pos'd the uncharitable ſinful Courſes ſome took: My Deſires, Prayers, and Endeavours were, that Profeſſors might have more ſound Knowledge and Hu<g ref="char:EOLhyphen"/>mility, and walk in the good ways of <hi>Catholick-Truth, Love,</hi> and <hi>Peace.</hi> My <hi>Praiſes</hi> flow'd from freedom fro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>un<g ref="char:EOLhyphen"/>pleaſant Extreams, from unt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ard Wranglings about little Things, and from loſing holy Love, and the Vitals of Reli<g ref="char:EOLhyphen"/>gion in unchriſtian irrational Heats a<g ref="char:EOLhyphen"/>bout the leſs neceſſary variable Circum<g ref="char:EOLhyphen"/>ſtances thereof.</hi> The miſchief of ſuch Courſes grew daily more and more evident, and accordingly my Reſolu<g ref="char:EOLhyphen"/>tions againſt them: I was again and again thankful for many other con<g ref="char:EOLhyphen"/>tinued and encreaſed Favours, eſpe<g ref="char:EOLhyphen"/>cially for my Faithfulneſs and Succeſs in doing Good.</p>
+               <p>
+                  <hi>[It was a little before this time that the good Providence of God happily brought me into his Acquaintance and
+<pb n="58" facs="tcp:98627:37"/>Converſe, being invited to Preach once a</hi> Lord's-day <hi>with him to the People that met at</hi> Glaſtenbury, <hi>which I continued to do for near a Year: And therefore can give a better Account of what theſe Ex<g ref="char:EOLhyphen"/>preſſions in his</hi> Diary <hi>refer to. He was fully ſatisfied with his own practice in Preaching to that</hi> Auditory, <hi>which ge<g ref="char:EOLhyphen"/>nerally conſiſted of Perſons not only very ſerious in their temper, but free from any of thoſe uncharitable</hi> Heats <hi>that accom<g ref="char:EOLhyphen"/>pany a narrow</hi> Zeal <hi>for a</hi> Party. <hi>They were indeed drawn to attend his Mini<g ref="char:EOLhyphen"/>ſtry, becauſe as they had but too juſt reaſon of diſſatisfaction with the neigh<g ref="char:EOLhyphen"/>bouring</hi> Pariſh-Miniſters: <hi>ſo they ſoon found other Impreſſions made on them by his judicious and affectionate Diſcourſes, which yet deriv'd ſtill greater Efficacy from an eminently holy Converſation, and particularly from his large</hi> Charity <hi>in furniſhing all poor Families thereabouts with</hi> Catechiſms, <hi>and other good Books, and his unwearied Care in viſiting them, to examine their Proficiency in the know<g ref="char:EOLhyphen"/>ledge and practice of ſerious</hi> Religion. <hi>And be durſt not throw off that</hi> Miniſte<g ref="char:EOLhyphen"/>rial Work <hi>wherein God bleſt him with ſo eminent Succeſs, to avoid ſome Men's
+<pb n="59" facs="tcp:98627:37"/>weak and groundleſs charges of</hi> Schiſm <hi>and</hi> Separation: <hi>But thought the Sal<g ref="char:EOLhyphen"/>vation of Souls that needed better help than they were provided for in publick, preferable to the obſervation of thoſe</hi> Ec<g ref="char:EOLhyphen"/>cleſiaſtical Canons <hi>which excluded ſo many</hi> faithful <hi>and</hi> laborious Miniſters <hi>from being employ'd in the</hi> Pariſh-Chur<g ref="char:EOLhyphen"/>ches, <hi>of whoſe</hi> continued Labours, <hi>he thought there was an apparent neceſſity. For though the publick</hi> Clergy <hi>was almoſt ſupernumerary, yet there were but few in compariſon who ſeem'd to have any due ſenſe of the weight of the Paſtoral Charge, and too few that had Qualifica<g ref="char:EOLhyphen"/>tions of</hi> Learning <hi>and</hi> Piety <hi>requiſite for it. But on the other hand, he was greatly troubled at the Extream which he thought thoſe</hi> Diſſenters <hi>run into, who a<g ref="char:EOLhyphen"/>voided all Communion with the</hi> Pariſh-Churches: <hi>and to expreſs his diſlike of what he thought an uncharitable temper in them, he often (as you'll read anon) communicated in the next</hi> Pariſh-Church, <hi>and was troubled to find that ſeveral whom he thought truly good Men, ſhould ſo warmly cenſure him for it. Nay, he was ſo extreamly tender of prejudicing the Intereſt of</hi> Pariſh-Churches, <hi>that
+<pb n="60" facs="tcp:98627:38"/>though he durſt not condemn thoſe of his Brethren, who form'd diſtinct</hi> Congre<g ref="char:EOLhyphen"/>gations, <hi>to which they adminiſtred the</hi> Lord's-Supper, <hi>and all other</hi> Ordinan<g ref="char:EOLhyphen"/>ces, <hi>though without renouncing occaſional</hi> Communion <hi>with the</hi> Pariſh-Churches; <hi>yet he was ſo earneſtly deſirous of an</hi> Act of Comprehenſion, <hi>that might</hi> (<hi>by re<g ref="char:EOLhyphen"/>ſtoring</hi> Diſcipline <hi>in</hi> Pariſh-Churches, <hi>and giving</hi> Miniſters <hi>acceſs to them on ſuch eaſier terms as his Judgment could comply with</hi>) <hi>lay the foundation of a</hi> happy Union; <hi>that he reſolv'd rather to wait longer for it, than do any thing to make the</hi> breach wider, <hi>by going fur<g ref="char:EOLhyphen"/>ther than</hi> conſtant Preaching, <hi>which he look'd on only as a</hi> neceſſary help, <hi>and no real hindrance to the true Intereſt of</hi> Religion <hi>in the</hi> Pariſh-Churches. <hi>And often freely declar'd ſo much to thoſe that there attended his</hi> Miniſtry.</p>
+               <p>
+                  <hi>Having made ſo long a Digreſſion, though neceſſary, to clear the ſenſe of theſe Paſſages in his</hi> Diary, <hi>(by which it fully appears with what Deliberation and ſincerity he acted in theſe matters;) I ſhall before I cloſe it, ſubjoyn one In<g ref="char:EOLhyphen"/>ſtance of the</hi> admirable Influence <hi>his</hi>
+                  <pb n="61" facs="tcp:98627:38"/>Example <hi>and</hi> Perſuaſions had <hi>to pro<g ref="char:EOLhyphen"/>mote</hi> Religion <hi>in the</hi> Family <hi>and</hi> Neighbourhood <hi>of</hi> Glaſtenbury: <hi>For the Heir of it, Sir</hi> Thomas R— <hi>being but then newly come to Age, did at his deſire,</hi> (<hi>to engage his Tenants the more effectually to the ſtudy and practice of</hi> Religion) <hi>call together their Servants and Children every</hi> Lord's-day, <hi>after the Afternoon Sermon, and himſelf Ca<g ref="char:EOLhyphen"/>techiz'd them. This I have often ob<g ref="char:EOLhyphen"/>ſerv'd with great Satisfaction, and as I am ſure the mention of it is no diſhonour to his Quality or Years; ſo I wiſh that ſo memorable an Example of</hi> early Zeal <hi>for</hi> Piety, <hi>may draw others to an Imi<g ref="char:EOLhyphen"/>tation of it. Such</hi> familiar Inſtructions <hi>would be more readily and thankfully em<g ref="char:EOLhyphen"/>brac'd by their</hi> Inferiours, <hi>from thoſe on whom their Secular Intereſt depends, and whom they are ſure nothing but</hi> compaſ<g ref="char:EOLhyphen"/>ſionate Charity to their Souls, <hi>can prompt to ſo much condeſcenſion.</hi> But to return to Mr. <hi>Trench</hi>'s Diary.]</p>
+               <p>Glanſtenb. May 24. 1680.</p>
+               <pb n="62" facs="tcp:98627:39"/>
+               <p>I had been <hi>Abus'd, Cenſured,</hi> and <hi>Slander's,</hi> Faithfulneſs and Plain-deal<g ref="char:EOLhyphen"/>ing had <hi>hard returns:</hi> But my Duty was comfortable, though againſt the ſtream; I had Witneſſes of my Inte<g ref="char:EOLhyphen"/>grity <hi>above</hi> and <hi>within,</hi> and in the con<g ref="char:EOLhyphen"/>ſidence thereof was plain and free with the <hi>injurious Party,</hi> to whom <hi>I</hi> ſtill return'd <hi>Good for Evil, Prayers,</hi> and <hi>Services</hi> for many and <hi>cruel Wrongs.</hi> The <hi>Guilty</hi> at length expreſt a great and ſorrowful ſenſe of what was paſt, asking God forgiveneſs, and his unworthy <hi>Servant,</hi> and promis'd what had flown out in Paſſion againſt <hi>Truth,</hi> ſhould be rectified, and my Innocence clear'd. <hi>I was ſtill praiſing God who enabled me to do my Duty, a<g ref="char:EOLhyphen"/>gainſt ſuch</hi> cutting Provocations, <hi>and gave me ſo much</hi> kindneſs, <hi>where I leſs expected it.</hi>
+               </p>
+               <p>Glaſt. Jan. 1. 1681.</p>
+               <p>Thankful acknowledgments of con<g ref="char:EOLhyphen"/>tinued Goodneſs to me and mine, eſpe<g ref="char:EOLhyphen"/>cially for any Sincerity and Diligence in encreaſing my own and others Knowledge, Love, and Obedience; Breathings after more and more Ho<g ref="char:EOLhyphen"/>lineſs,
+<pb n="63" facs="tcp:98627:39"/>
+                  <hi>That by any means I might be more like my Heavenly Father, more faithful in endeavouring his Glory, and the good of men, and more happy in ſucceſs.</hi>
+               </p>
+               <p>Prayers for conſtant Aſſiſtance were quickned by the ſudden ſinking and dying of an old Acquaintance, Mr. <hi>S</hi>— who was commonly very chearful, full of comfortable conſident Expreſſions of Reſignation <hi>to</hi> and <hi>truſt in God,</hi> and of unconcernedneſs <hi>for</hi> and elevation <hi>above lower temporal matters:</hi> Yet on the Death of a Friend and Wife, all fail'd, and he ſoon ſunk and died. <hi>What need to pleaſe and ſeek to God con<g ref="char:EOLhyphen"/>tinually, that he may keep us ſtrong in himſelf and the power of his might.</hi>
+               </p>
+               <p>Glaſt. July 10. 1682.</p>
+               <p>I comply'd to ſtay at <hi>Glaſt.</hi> though ſollicited by other Friends to be nearer them, with hearty Prayers to be more laborious and ſucceſsful for their good, particularly Sir <hi>Th</hi>'s., whom I had great reaſon to love. I had com<g ref="char:EOLhyphen"/>fortable hopes of my own Sincerity, but not without trouble for my ſlug<g ref="char:EOLhyphen"/>giſhneſs and wandring Thoughts. I
+<pb n="64" facs="tcp:98627:40"/>reflected on the prime of my Health and Briskneſs, not improv'd as be<g ref="char:EOLhyphen"/>came me for God, acknowledging it juſt I ſhould not be honour'd to do him any conſiderable Service, and begg'd pardon and ſtrength of Body and Soul, and good ſucceſs, <hi>For his in<g ref="char:EOLhyphen"/>finite unaccountable Mercy and Goodneſs in our deareſt Saviour.</hi>
+               </p>
+               <p>Glaſt. May 28. 1683.</p>
+               <p>I found ſeveral Notes of my own Sincerity, and with more conſidence: Diſtractions were my trouble, a<g ref="char:EOLhyphen"/>gainſt which my Prayers were ſtill directed.</p>
+               <p>I had deſign'd to receive the Sa<g ref="char:EOLhyphen"/>crament in <hi>Cranbroke-Church,</hi> not from fear, for which there was then no oc<g ref="char:EOLhyphen"/>caſion: but from ſenſe of Duty, and trouble for the neglect thereof. <hi>I</hi> had been for it, and oft declar'd my Judgment.</p>
+               <p>But the vehement Averſion and diſ<g ref="char:EOLhyphen"/>ſwaſion of ſeveral good Men had kept me from doing it there: But I was at length ſatisfied I ought not to pleaſe them therein, but to obey the Com<g ref="char:EOLhyphen"/>mands of <hi>Chriſtian <g ref="char:V">Ʋ</g>nity, Communion,</hi>
+                  <pb n="65" facs="tcp:98627:40"/>and <hi>Love;</hi> to perform a Duty, and partake of a Priviledge ſadly neglect<g ref="char:EOLhyphen"/>ed, and take away that Offence which forbearance would ſix before ſome who miſtakingly cry out againſt Offence, when through their own Faults diſ<g ref="char:EOLhyphen"/>pleas'd.</p>
+               <p>My Body had continued very cra<g ref="char:EOLhyphen"/>zy, Lungs ſenſibly heated and ſwell'd by the <hi>Catarrh,</hi> notwithſtanding many means: but God ſent me to <hi>London,</hi> made my Friends urge me to better advice, and bleſt what was preſcrib'd, eſpecially Milk variouſly prepar'd and mixt, with quick and ſtrange ſuc<g ref="char:EOLhyphen"/>ceſs. Wiſhes were for an <hi>Heart more drawn and warm'd by Divine Goodneſs and Love.</hi>
+               </p>
+               <p>My Work at <hi>Glaſtenbury</hi> drawing to an end, my Conſcience witneſs'd that I had endeavour'd to promote the <hi>Eſſentials of Religion,</hi> not our <hi>un<g ref="char:EOLhyphen"/>happy Differences,</hi> with as little ap<g ref="char:EOLhyphen"/>pearance of <hi>Schiſm</hi> or <hi>Faction</hi> as I could.</p>
+               <p>
+                  <hi>Brenchley, Nov.</hi> 20. 1684.</p>
+               <p>Our 6th Son was Bapitz'd and na<g ref="char:EOLhyphen"/>med
+<pb n="66" facs="tcp:98627:41"/>
+                  <hi>Thomas,</hi> by Mr. <hi>Monkton,</hi> our Mi<g ref="char:EOLhyphen"/>niſter at <hi>Brenchley:</hi> I hop'd he had not only the <hi>Token,</hi> but the <hi>ſaving benefit of the Covenant,</hi> praying <hi>he might live, and faithfully embrace it for himſelf.</hi>
+               </p>
+               <p>Brenchley, July, 5. 1685.</p>
+               <p>This Day I received the <hi>Sacrament,</hi> renewing my <hi>Covenant with my God, who is my All.</hi> I converſe little with Men, but enough to ſee and hear of many lamentable ſinful Diſtempers. <hi>Lord make all better, and keep ſuch as profeſs greater Purity, from impure Heats and Miſtakes, and from doing Evil under pretence of Good.</hi>
+               </p>
+               <p>July 21.</p>
+               <p>I endeavoured as I ought to be affe<g ref="char:EOLhyphen"/>cted with the Sins and Sufferings of ſo many.</p>
+               <p>My Thoughts have been frequently of God, and my Diſcourſes with ſe<g ref="char:EOLhyphen"/>veral as I had opportunity: I hope they would have been better, if leſs diſturb'd by bodily indiſpoſition, which ſtill clouds my Head. <hi>O for a better Head and Heart to glorifie my
+<pb n="67" facs="tcp:98627:41"/>good God and Saviour, in doing and ſuffering whatever pleaſeth him.</hi>
+               </p>
+               <p>Brenchly, Octob. 7. 1685.</p>
+               <p>Being entred into the 43d. Year of my Life, I reflected on my carriage towards God and Man, what I had been and done in the World; and what grounds I had to hope for a bet<g ref="char:EOLhyphen"/>ter: The Reſult whereof I write for future uſe, I hope without partiality. <hi>God grant I may yet write better.</hi>
+               </p>
+               <p>I am unfeignedly willing to know the worſt of my ſelf; I think I have good ground to hope I have found the benefit of an early and ſincere Dedi<g ref="char:EOLhyphen"/>cation to God by my good Parents, and of their careful Education and frequent Prayers, and the many other Spiritual Advantages I enjoy'd.</p>
+               <p>I am pretty well aſſur'd that I have choſen God for my <hi>Portion, Reſt,</hi> and <hi>Happineſs;</hi> and that I prefer not the Profits, Pleaſures, and Honours of this World, before him. I deſire no more thereof than is needful for his Service, heartily deſiring and ſeeking <hi>firſt the Kingdom of God and his Righteouſneſs,</hi>
+                  <pb n="68" facs="tcp:98627:42"/>and expecting other things in due ſub<g ref="char:EOLhyphen"/>ordination.</p>
+               <p>I have, I hope, heartily, humbly, and thankfully accepted <hi>the Lord Chriſt,</hi> as offered in the Goſpel to be my Saviour on his own terms, to ſave me from my Sins, to ſanctiſie me by his <hi>Word and Spirit,</hi> to rule me by his Laws, and ſo to juſtiſie and ſave me from Guilt and Puniſhment for ever.</p>
+               <p>
+                  <hi>I</hi> have been and am greatly trou<g ref="char:EOLhyphen"/>bled that I did not earlier return un<g ref="char:EOLhyphen"/>to God: The Sins of my Youth and my Relapſes ſince, are the grief of my Soul, which I would waſh away, if poſſible, with my own blood: It cuts my Heart that I forſook them no ſooner, and that my following Life hath not been more fruitful. Yet I hope, I have been and am ſincere, keeping my ſelf through Grace, from my own Iniquity, and living in the practice of the contrary Duties.</p>
+               <p>
+                  <hi>I</hi> am heartily willing to comply with God in all things, and to live in the daily practice of all thoſe holy, heavenly, ſpiritual Duties of Heart and Life, which my God requires: <hi>I</hi>
+                  <pb n="69" facs="tcp:98627:42"/>am very ſorry that I perform them no better: and yet I hope I am not defil'd with great or reigning Sin, but am prevailingly <hi>his faithful Ser<g ref="char:EOLhyphen"/>vant.</hi>
+               </p>
+               <p>I long for nothing more than, no<g ref="char:EOLhyphen"/>thing ſo much as more Fixedneſs of Mind on God, more Conſtanoy, Chearfulneſs, and Succeſs in his bleſ<g ref="char:EOLhyphen"/>ſed Service.</p>
+               <p>I unfeignedly deſire, and, through Divine Aſſiſtance, reſolve to perſe<g ref="char:EOLhyphen"/>vere and grow ſtill better, notwith<g ref="char:EOLhyphen"/>ſtanding all Difficulties, and againſt all Temptations, to think of and act according to <hi>Matth.</hi> 10.37, 38, <hi>&amp;c.</hi> and <hi>Luke</hi> 14.26, 33. That whatever it coſt, <hi>I will ſo run, that I may obtain the Crown, forgetting thoſe things that are behind, and preſſing forward towards the mark for the price of our high calling of God in Chriſt Jeſus.</hi> But thou, O Lord, forſake not me, that I forſake not thee.</p>
+               <p>I am in love with that <hi>Love</hi> which our Lord ſet us ſuch an Example of, and made the diſtinguiſhing <hi>Chara<g ref="char:EOLhyphen"/>cter</hi> of his <hi>Diſciples.</hi> My <hi>Charity,</hi> I think, is large and extenſive, accord<g ref="char:EOLhyphen"/>ing
+<pb n="70" facs="tcp:98627:43"/>to his Will; but eſpecially I have lov'd and do love all good Men as ſuch prevailingly; They are to me <hi>the Excellent of the earth, in whom,</hi> (as to Men) <hi>is all my delight.</hi> The <hi>Di<g ref="char:EOLhyphen"/>vine Image</hi> affects and draws me where-ever I find it, notwithſtanding differences in little Things: And my Love is real and fruitful according to my Ability: My Heart and Hands are open as Objects and Occaſions offer.</p>
+               <p>I have been and am very careful to wrong none, having long ſince right<g ref="char:EOLhyphen"/>ed thoſe <hi>I</hi> did.</p>
+               <p>I have ſoon forgiven when pro<g ref="char:EOLhyphen"/>vok'd; yea ſeldom, very ſeldom re<g ref="char:EOLhyphen"/>tain'd any Grudge againſt any: I have return'd Good for Evil, where I de<g ref="char:EOLhyphen"/>ſerv'd well, and yet ſuffered much ill; and where I have deliberately refus'd to comply with any, it was becauſe I thought it my Duty for their good: I have been watchful, Self ſhould not prevail under ſhadow of being con<g ref="char:EOLhyphen"/>cern'd for God. I have no Enemies whom I do not heartily pray for, and am not ready to do good to. <hi>Praiſed be God,</hi> theſe Duties of <hi>Loving, Gi<g ref="char:EOLhyphen"/>ving,</hi>
+                  <pb n="71" facs="tcp:98627:43"/>and <hi>forgiving,</hi> were not and are not difficult.</p>
+               <p>I have been affected, and deſire to be more with the Condition of the <hi>Church of God,</hi> the Sufferings of ſo great a part thereof, and eſpecially the Sins that deſerv'd them. My Prayers have been and are, That God would Refine and not Deſtroy; That he would diffuſe that Wiſdom from above, which is <hi>pure and peaceable;</hi> That he would revive <hi>the power of Godlineſs,</hi> humbling the <hi>Guilty</hi> of our <hi>Diviſions,</hi> and uniting in <hi>Chriſtian, Catholick Love.</hi>
+               </p>
+               <p>
+                  <hi>I</hi> have conſcientiouſly conſidered my Duty to the Magiſtrate, and ac<g ref="char:EOLhyphen"/>cordingly have been careful to obey all his Laws, unleſs contrary to the Laws of God: And I thought it be<g ref="char:EOLhyphen"/>came me to underſtand his Will not in the worſt, but in the beſt ſenſe his Words would bear; remembring that an erring Conſcience will not clear me if <hi>I</hi> diſobey any lawful Com<g ref="char:EOLhyphen"/>mand.</p>
+               <p>I have been little inquiſitive about the Magiſtrate's Duty, but careful to know my own: My enquiry was not,
+<pb n="72" facs="tcp:98627:44"/>
+                  <hi>Whether he did well to Command,</hi> but, <hi>whether I might lawfully Obey?</hi> Though he impoſe unneceſſary Burdens be<g ref="char:EOLhyphen"/>yond his Authority, (which is for Publick Good;) yet Compliance may be my Duty from <hi>Humility, Love to Peace,</hi> and that I may not offend, but reſpect God's Vicegerent.</p>
+               <p>
+                  <hi>I</hi> have conſider'd the Veneration due to thoſe in Authority by reaſon thereof, however they be otherwiſe defective; and the Subjection that muſt be ever continued, though the Laws of God forbid Obedience, and accordingly reſolved never to par<g ref="char:EOLhyphen"/>take in <hi>Rebellion,</hi> though for the beſt <hi>Religion,</hi> and moſt valuable <hi>Liberties;</hi> but to be ſtill ſubject <hi>not only for Wrath,</hi> but, <hi>for Conſcience-ſake.</hi>
+               </p>
+               <p>I have often frequented the Publick Authoriz'd Aſſemblies, and joyn'd in the eſtabliſh'd way. of Worſhip, not to avoid <hi>Civil</hi> or <hi>Eccleſiaſtical</hi> Cen<g ref="char:EOLhyphen"/>ſures, not for any worldly Intereſt; but from ſenſe of Duty, and a juſt per<g ref="char:EOLhyphen"/>ſwaſion, after many Thoughts and Prayers, in which <hi>I</hi> am ſtill more con<g ref="char:EOLhyphen"/>firm'd, that <hi>I</hi> was more oblig'd to do ſo by the Laws of God, and abundant<g ref="char:EOLhyphen"/>ly
+<pb n="73" facs="tcp:98627:44"/>warranted by the Example of our Saviour and his Apoſtles. I have been ſtill more confident, as I conſi<g ref="char:EOLhyphen"/>der'd the State and Practice of the Primitive and other Churches, and look'd, I think, impartially into what is oppos'd by Dividers.</p>
+               <p>
+                  <hi>Praiſed be God,</hi> I am ſtill well ſatiſ<g ref="char:EOLhyphen"/>fied that <hi>I</hi> am not involv'd into ſo much as any conſent to Sin. I reflect with comfort on my moderation about ſmall or doubtful matters, and on my warmth againſt the <hi>Antichriſtian Spi<g ref="char:EOLhyphen"/>rit</hi> of <hi>
+                     <g ref="char:V">Ʋ</g>ncharitableneſs, Hatred, Rage,</hi> and <hi>Malice.</hi>
+               </p>
+               <p>I admire God's <hi>Infinite goodneſs</hi> in the way of <hi>Salvation,</hi> and am greatly troubled that I am no more affected with the amazing <hi>Mercy</hi> and <hi>Benignity</hi> of my <hi>Heavenly Father,</hi> with the <hi>ſtu<g ref="char:EOLhyphen"/>pendious Charity, Condeſcenſion,</hi> and <hi>Sufferings of the Son,</hi> and with the <hi>wonderful Patience, Long-ſuffering,</hi> and <hi>Kindnoſs of the Holy Spirit. I</hi> deſire and long to <hi>know</hi> and <hi>love, admire</hi> and <hi>praiſe, ſpoak</hi> and <hi>act</hi> more and more to the utmoſt of my power, for the <hi>Glory of the Incomprehenſible Trinity,</hi> which hath ſo condeſcended to <hi>Save</hi>
+                  <pb n="74" facs="tcp:98627:45"/>ſuch an abominable wretched Crea<g ref="char:EOLhyphen"/>ture.</p>
+               <p>
+                  <hi>I</hi> find it moſt difficult to get and keep an Heavenly Frame without Di<g ref="char:EOLhyphen"/>ſtraction: I am oft diſcompos'd by worldly Concerns, vex'd by the Sins and Weakneſſes of others; and too eaſily diverted from my Studies, Me<g ref="char:EOLhyphen"/>ditations, and Prayers, by vain, im<g ref="char:EOLhyphen"/>pertinent, unſuitable, and unſeaſon<g ref="char:EOLhyphen"/>able Thoughts: <hi>I</hi> labour and groan under them as my great Burden and Sin, and ſtrive alas too ineffectually againſt them. What would I give, yea, what would <hi>I</hi> not give, do, or ſuffer, that my Soul were fix'd on God; that <hi>I</hi> could ſerve him without Diſtraction? That my Studies, Medi<g ref="char:EOLhyphen"/>tations, and Converſe with God in his <hi>Word, Prayer,</hi> and <hi>Praiſe,</hi> were more free from wandring, more affection<g ref="char:EOLhyphen"/>ate, ſpiritual and heavenly? Yet I'm ſure I long and deſire to labour more effectually that God may ſill and poſ<g ref="char:EOLhyphen"/>ſeſs my Soul; that his holy enjoying Service, (the perfect Happineſs of Heaven) may be more and more be<g ref="char:EOLhyphen"/>gun on Earth. <hi>I</hi> value and breath af<g ref="char:EOLhyphen"/>ter the <hi>Divine Image</hi> as the greateſt
+<pb n="75" facs="tcp:98627:45"/>good, eſteeming, and deſiring to be rid of Sin as the greateſt Evil; and Heaven is therefore moſt amiable, be<g ref="char:EOLhyphen"/>cauſe there I hope to be wholly freed from Sin, and to ſerve and en<g ref="char:EOLhyphen"/>joy my God and Saviour in ſinleſs Holineſs.</p>
+               <p>
+                  <hi>O Lord help me to do as I profeſs, pro<g ref="char:EOLhyphen"/>miſe, and bind my ſelf; That my Con<g ref="char:EOLhyphen"/>verſation may be more in Heaven: That thy Will may be more done by me on Earth, as 'tis in Heaven! That I may more comfortably hope and long to be in Heaven! And, O remember thy Chur<g ref="char:EOLhyphen"/>ches and Children, and the whole World; Let my concern for them all be more ac<g ref="char:EOLhyphen"/>cording to thy Will, more pure and in<g ref="char:EOLhyphen"/>tenſe for thy Glory.</hi> Amen, <hi>for our Lord Jeſus ſake.</hi>
+               </p>
+               <p>My worldly Circumſtances are not without Difficulties and Temptations; conſiderable Loſſes <hi>I</hi> have had, yet continued giving largely to the <hi>Poor:</hi> My Children dying, I did not think it my Duty to encreaſe my Eſtate. I have now Two likely to live, and may have more; ſo that my Charge riſes, when what ſhould maintain it falls. I reſolve to caſt my Care on
+<pb n="76" facs="tcp:98627:46"/>God in well-doing, to exerciſe my ſelf more than ever, <hi>to keep a Conſcience void of offence,</hi> impartially to ſtudy and do my Duty, and pray conti<g ref="char:EOLhyphen"/>nually.</p>
+               <p>
+                  <hi>Brenchley, Octob.</hi> 23. 1685.</p>
+               <p>My Practice hath in ſome meaſure anſwer'd my renewed Reſolutions; I have employed my time better, pray'd harder, and endeavoured when call'd abroad to do ſome good, by good Diſcourſe, when I thought it ſeaſon<g ref="char:EOLhyphen"/>able, and by making peace. God hath comforted me in the kindneſs of Friends; His Spirit, I hope, is with me: May I more abundantly find it, as I am call'd to do or ſuffer, <hi>for my Jeſus's ſake!</hi>
+               </p>
+               <p>
+                  <hi>Brenchley, Feb.</hi> 25. 168<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>I</hi> hope <hi>I</hi> continue in God's Service, though alas with many Failings till <hi>I</hi> was haſted to <hi>London</hi> and <hi>Hackney,</hi> the 5th. where <hi>I</hi> had an happy iſſue of an Affair, which evidently threatned much trouble and loſs: <hi>I</hi> could not but give ſomewhat conſiderable to ſome that were indeed great Loſers.
+<pb n="77" facs="tcp:98627:46"/>My God, <hi>I</hi> truſt, will remember me for good, and capacitate me to give more.</p>
+               <p>
+                  <hi>Thurſday,</hi> the 18th. Mr. <hi>Samuel Bar<g ref="char:EOLhyphen"/>ton,</hi> Fellow of <hi>Corp. Chriſti Colledge</hi> in <hi>Oxford,</hi> married my Siſter <hi>Sarah;</hi> O may they be faithful to God and one another, according to their Duty: May he find a comfortable Opportu<g ref="char:EOLhyphen"/>nity for Publick Service, of which alas <hi>I</hi> ſtill continue uncapable. I have been lately urg'd, and again conſider'd my Scruples (as to the terms of Con<g ref="char:EOLhyphen"/>formity) but cannot yet ſee my way: If <hi>I</hi> labour under involuntary miſtakes, God will (<hi>I</hi> hope) pardon and re<g ref="char:EOLhyphen"/>move them.</p>
+               <p>
+                  <hi>Brenchley, May</hi> 1. 1686.</p>
+               <p>
+                  <hi>April</hi> 26. Our younger Child <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> died at the end of a Convulſion-Fit, about an Hour long, <hi>&amp;c.</hi> May we more practically believe we muſt alſo die, and not ceaſe preparing for it, till we come to deſire it, and live in the conſtant joyful expectation of E<g ref="char:EOLhyphen"/>ternity: We are many ways ſhame<g ref="char:EOLhyphen"/>fully faulty that we do not: <hi>Pardon
+<pb n="78" facs="tcp:98627:47"/>and help us for thy Mercies ſake.</hi> A<g ref="char:EOLhyphen"/>men.</p>
+               <p>
+                  <hi>Brenchley, May</hi> 29. 1686.</p>
+               <p>On the 23d. <hi>I</hi> ſolemnly remembred my <hi>Saviour's Paſſion,</hi> and renewed my Covenant with God thorow him; My Prayors and Vows were princi<g ref="char:EOLhyphen"/>pally for encreaſe of Holineſs in Heart and life. God graciouſly made uſe of a mean Affliction, (as others count it) to quicken both the Day following; ſo that the paſt Week my Watch hath been more conſtant, my Recollections more frequent, at leaſt every Evening: And <hi>I</hi> ſind to my comfort my Converſe both with God and Man, hath been in ſome good meaſure, (if <hi>I</hi> miſtake not) accord<g ref="char:EOLhyphen"/>ing to the <hi>Goſpel. I</hi> have had many Refiections on God's manifold Good<g ref="char:EOLhyphen"/>neſs, many Abhorrings of my own ſin<g ref="char:EOLhyphen"/>ful Vileneſs: <hi>I</hi> deſire my Actions, and (as God pleaſeth) my Sufferings may be anſwerable, that <hi>I</hi> may glorifie him more on Earth, and help others to do ſo; and become very ready and willing to ſerve him better in Heaven. <hi>Amen for my Saviour's ſake.</hi>
+                  <pb n="79" facs="tcp:98627:47"/>
+                  <hi>I praiſe God,</hi> I have liv'd this Week alſo as the former; My Soul hath been daily firſt and laſt with God: My Thoughts have very frequently re<g ref="char:EOLhyphen"/>turn'd unto him, and my Time hath been improv'd with ſome diligence for his Glory. My Converſe with others &amp; in my own family, hath in ſome mea<g ref="char:EOLhyphen"/>ſure expreſt the ſenſe of thoſe great Things that ought always above all to be minded. My Prayers and Re<g ref="char:EOLhyphen"/>ſolves have been and are for conſtan<g ref="char:EOLhyphen"/>cy and progreſs. <hi>Amen, for my Lord Jeſus ſake.</hi>
+               </p>
+               <p>June 12.</p>
+               <p>
+                  <hi>I</hi> hope <hi>I</hi> am ſtill getting nearer Heaven; <hi>I</hi> have continued my Con<g ref="char:EOLhyphen"/>verſe with God, and endeavoured to quicken others with my ſelf to his bleſſed Service. Afflictions are much abated, but not my Fervor. O may <hi>Love</hi> be an abiding Principle thereof, acting me with Vigour and Conſtan<g ref="char:EOLhyphen"/>cy for the Glory of God, and the good of all with whom <hi>I</hi> have to do. <hi>Amen, for my Lord Jeſus's ſake.</hi>
+               </p>
+               <p>
+                  <hi>June</hi> 19. 1686.</p>
+               <pb n="80" facs="tcp:98627:48"/>
+               <p>
+                  <hi>Praiſed be God, I</hi> have endeavoured another Week to ſpeak, and think, and act for him: His Mercies further en<g ref="char:EOLhyphen"/>gage me daily.</p>
+               <p>
+                  <hi>Jyly</hi> 3.</p>
+               <p>
+                  <hi>I</hi> have thought oft daily of God and Heaven, and oft pray'd that <hi>I</hi> might pleaſe him better, and be more ſit to be with him there: But <hi>I</hi> have not been ſo ſerious and warm, and earneſtly deſirous of getting and do<g ref="char:EOLhyphen"/>ing good as <hi>I</hi> was before, and yet <hi>I</hi> was laſt <hi>Lord's-day</hi> at the <hi>Sacrament: I</hi> hope God knows that I deſire no<g ref="char:EOLhyphen"/>thing in compariſon with Holineſs, that I may be at a greater diſtance from the Deſilements of Sin, and have deeper and more abiding Impreſſions of his purifying Light and Love, and be more conſtant and ſucceſsful in communicating thereof to others. <hi>I</hi> proceeded not ſo ſucceſsfully in my Studies as I would, and I think ſome<g ref="char:EOLhyphen"/>times have. I hope to pray and ſtrive that I may be and do better. Imper<g ref="char:EOLhyphen"/>tinent Diſcourſes, (the too common bane of Converſe) have been my trouble. May <hi>I</hi> be able to oppoſe
+<pb n="81" facs="tcp:98627:48"/>them with Chriſtian Prudence, and to perfume every Place and Compa<g ref="char:EOLhyphen"/>ny with ſomewhat truly good; <hi>for his ſake, who purchas'd and pleads for Grace to help in time of need.</hi>
+               </p>
+               <p>July 10.</p>
+               <p>An indiſpoſed Body and ſeveral incumbring Diverſions have hindred me from ſerving God as I would; yet I hope my main deſign has not been wholly neglected.</p>
+               <p>I was faithful to two Perſons in dealing plainly with them about ſome matters that had occaſion'd ſeveral to ſpeak evil of'em. But <hi>I</hi> was ſo with abundance of tenderneſs, and there<g ref="char:EOLhyphen"/>fere cannot but think one of them blame-worthy for the bad return he made. My Conſcience bears me wit<g ref="char:EOLhyphen"/>neſs, I did what <hi>I</hi> did meerly from ſenſe of Duty, having great reluctan<g ref="char:EOLhyphen"/>ces; which only fear of God, and the love he commands to my Fellow-ſer<g ref="char:EOLhyphen"/>vants, overcame.</p>
+               <p>
+                  <hi>July</hi> 17.</p>
+               <pb n="82" facs="tcp:98627:49"/>
+               <p>
+                  <hi>I</hi> endeavoured to ſerve my good God, of whoſe kindneſs <hi>I</hi> have ſtill more experience; but alas <hi>I</hi> have wanted that warmth and pleaſure <hi>I</hi> have ſometimes had: <hi>I</hi> long and de<g ref="char:EOLhyphen"/>ſire to labour for it more than ever.</p>
+               <p>
+                  <hi>July</hi> 31.</p>
+               <p>
+                  <hi>I</hi> want the Aids of the Holy Spirit, becauſe <hi>I</hi> doubt I do not ſeek and la<g ref="char:EOLhyphen"/>bour for and with them as <hi>I</hi> ought: <hi>I</hi> walk heavily, yet I hope in the right way. O for more Grace, or rather for better improvement of what I have, that <hi>I</hi> may have more; <hi>for Je<g ref="char:EOLhyphen"/>ſus's ſake!</hi>
+               </p>
+               <p>Aug. 7. &amp; 14.</p>
+               <p>
+                  <hi>To the like purpoſe.</hi>
+               </p>
+               <p>My Watch has not been ſo con<g ref="char:EOLhyphen"/>ſtant, nor my Converſe ſo uſeful as it ſhould; Leſs proſitable Diſcourſes and books have taken up too much time: <hi>I</hi> am not prepared as I would for the <hi>Lord's-Day</hi> approaching. I need and beg pardon, that I delight no more in the more ſpiritual heaqven<g ref="char:EOLhyphen"/>ly Duties and Studies, and am as de<g ref="char:EOLhyphen"/>ſirous,
+<pb n="83" facs="tcp:98627:49"/>(O may I be as laborious) to do better; <hi>for, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Brenchley, Aug.</hi> 31.</p>
+               <p>
+                  <hi>I</hi> have not been what <hi>I</hi> would, yet I hope I am in the way to be what I wiſh, <hi>in Heaven.</hi> O may I be much better on Earth! To Morrow I de<g ref="char:EOLhyphen"/>ſign to take a Journey with my Bro<g ref="char:EOLhyphen"/>ther, <hi>&amp;c.</hi> O may I be able to re<g ref="char:EOLhyphen"/>flect with comfort at my return on what I was and did.</p>
+               <p>
+                  <hi>Sept.</hi> 21.</p>
+               <p>God's Goodneſs accompanied me in my Journey, ſhin'd in Relations Lovelineſs, and Love, preſerv'd my Family, and has brought us together in ſafety. May all be crown'd with encreaſe of Holineſs and fruitful Gra<g ref="char:EOLhyphen"/>titude, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Octob.</hi> 16.</p>
+               <p>Four Fits of a Tertian Ague had much weaken'd and iudiſpoſed me; God then took it off, and I ſeem re<g ref="char:EOLhyphen"/>covering my former State of Health: I thought of Death with little or no fear, and hope I ſhould have been
+<pb n="84" facs="tcp:98627:50"/>happy if I had died, though now my Reflections are not ſo comfortable. I have ſometimes thought I was be<g ref="char:EOLhyphen"/>yond what I wrote: but now <hi>I</hi> am down again. Bodily indiſpoſition dulls me; But why is not my Soul more vigorous? Had <hi>I</hi> comply'd with the Holy Spirit, and convers'd with God as I ought, I might have had more of his comforting, ſtrengthning In<g ref="char:EOLhyphen"/>fluences and helps. I deſire to quali<g ref="char:EOLhyphen"/>ſie my ſelf for them by a far better improvement of all Aids vouchſaf'd. <hi>Help, heavenly Father, for thy Son's ſake,</hi> Amen.</p>
+               <p>
+                  <hi>Nov.</hi> 8.</p>
+               <p>Our Seventh Son was Baptiz'd and Nam'd <hi>Edmund;</hi> May we and ours be ſtill more our God's, agnizing his Su<g ref="char:EOLhyphen"/>pream Right, and living more in the lively ſenſe and active acknowledg<g ref="char:EOLhyphen"/>ments thereof. <hi>Amen; for, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Decemb.</hi> 11.</p>
+               <p>My God has continued to engage me by his kindneſs to my whole Self and ours, and to our Relations who are ſo pleaſant and uſeful to us. <hi>I</hi>
+                  <pb n="85" facs="tcp:98627:50"/>have proceeded in my courſe of Duty, but alas too heavily without ſuch Di<g ref="char:EOLhyphen"/>ligence, Life, and Chearfulneſs, as be<g ref="char:EOLhyphen"/>come ſo excellent a Service. I deſire to be what I wiſh, and to endeavour with all my might: When ſhall I write that I am and do ſo? Lord, help me to help my ſelf! and ſuffer me not to forfeit the Aids thou vouchſafeſt. May I improve 'cm all with greater watchfulneſs, alacrity, and ſucceſs! And may I do my ut<g ref="char:EOLhyphen"/>moſt for all that I am concern'd to help; <hi>for, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Decem.</hi> 31.</p>
+               <p>The 25th I remembred my Savi<g ref="char:EOLhyphen"/>our, and renew'd my Covenant at the Holy Table, and before and after have taken ſome pains in his Service, ſincerely (I hope) deſiring and en<g ref="char:EOLhyphen"/>deavouring to pleaſe him my ſelf, and to help others to joyn with, yea, ex<g ref="char:EOLhyphen"/>ceed me. May I ſtill do better, and in the revolutions of Time, think more of, and prepare better for Eter<g ref="char:EOLhyphen"/>nity. <hi>Amen; for, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Brenchley, Jan.</hi> 29. 1687.</p>
+               <pb n="86" facs="tcp:98627:51"/>
+               <p>I hope <hi>I</hi> have been crawling up<g ref="char:EOLhyphen"/>wards, though ſomewhat unevenly, and attempted to do good as I had occaſions to converſe with Men, and prepar'd my ſelf, (at leaſt ſometimes, for Viſits, that they might be uſeful, and not, as alas, too often loſt in Im<g ref="char:EOLhyphen"/>pertinences. Many come and partake of what I cuſtomarily do in my Fa<g ref="char:EOLhyphen"/>mily on the <hi>Lord's Days,</hi> after pub<g ref="char:EOLhyphen"/>lick Service. I may not exclude 'em, though uninvited. I hope, and pray, and endeavour, that God may honour me to do their Souls ſome laſting good. I am ſenſible of God's good<g ref="char:EOLhyphen"/>neſs as to my private Concerns and publick Circumſtances, and deſire Heart and Life may be anſwerable; <hi>for my Saviour's ſake.</hi> Amen.</p>
+               <p>I have been alſo diſturb'd with the Extreams of ſome cenſorious Divi<g ref="char:EOLhyphen"/>ders; I have no Enmity againſt the Men, but can by no means approve their ways, nor concur as I am de<g ref="char:EOLhyphen"/>ſir'd with 'em.</p>
+               <p>
+                  <hi>Apr.</hi> 25. 1687.</p>
+               <p>I have been doing my Duty, to the wearying and waſting of my fleſh, I
+<pb n="87" facs="tcp:98627:51"/>have been twice feaſted by my Lord at his Table, I hope not without ſome advantage.</p>
+               <p>
+                  <hi>May</hi> 16.</p>
+               <p>The different Opinions, and eſpe<g ref="char:EOLhyphen"/>cially the very indecent heats of good Men, to which the preſent liberty gave vent, were no ſmall diſturbance to me. And,</p>
+               <p>
+                  <hi>July</hi> 2.</p>
+               <p>I deſire to lay to heart the Condi<g ref="char:EOLhyphen"/>tion of the Church of God; the wo<g ref="char:EOLhyphen"/>ful neglects of Chriſtian Love in all Parties, and the ſtrange furious Heats that prey on the vital fervour of Re<g ref="char:EOLhyphen"/>ligion, provoke God, and threaten deſtruction. <hi>Pity and help, O Lord; for vain is the help of man.</hi>
+               </p>
+               <p>
+                  <hi>July</hi> 20.</p>
+               <p>
+                  <hi>[Speaking of a very deep and cutting Affliction that had often return'd.]</hi> I am far from entertaining hard thoughts of God; I heartily ſubmit to his So<g ref="char:EOLhyphen"/>veraign Pleaſure: I acknowledge his Juſtice might be far ſeverer; and I am ſenſible of abundance of Mercy,
+<pb n="88" facs="tcp:98627:52"/>and that I want Thankfulneſs, which I often beg of him. I'm ſtill more conſirm'd in the ways of Love that I have choſen, and abhor Love-killing Principles and Practices in all Par<g ref="char:EOLhyphen"/>ties.</p>
+               <p>
+                  <hi>Octob.</hi> 6.</p>
+               <p>Ending the 44th Year of my earth<g ref="char:EOLhyphen"/>ly Pilgrimage, I review'd what I wrote, <hi>Octob.</hi> 7. 1685. and found my Appre<g ref="char:EOLhyphen"/>henſions of my own Condition much the ſame. <hi>I</hi> have continued taking pains in my Studies for the Service of Souls, to the wearying if not waſting of the Fleſh; yet my Spirit hath not attain'd the frame I wiſh: imperti<g ref="char:EOLhyphen"/>nent Thoughts, wandring Imaginati<g ref="char:EOLhyphen"/>ons, inordinate Affections, are my great and culpable Troubles. When ſhall I ſind and be able to write bet<g ref="char:EOLhyphen"/>ter! God grant that I may, whatever I ſuffer for't.</p>
+               <p>
+                  <hi>Decemb.</hi> 31.</p>
+               <p>I have been much perplexed be<g ref="char:EOLhyphen"/>tween repeated Meſſages from <hi>Hack<g ref="char:EOLhyphen"/>ney,</hi> and others as unexpected from <hi>Aſhford;</hi> and ſuch Conſiderations as Reaſon and Religion ſuggeſt about
+<pb n="89" facs="tcp:98627:52"/>our deſigned remove; I was very faulty in ſuffering 'em to hinder in ſuch a meaſure my Converſe with God, and my Comfort, Peace, and Joy therein; that a Sacramental Com<g ref="char:EOLhyphen"/>munion 25th, afforded ſo little ſweet<g ref="char:EOLhyphen"/>neſs and benefit, that I receiv'd no more from the infinite Fountain, aſcended no higher towards him, and had not much larger Communications from him. O Lord, forgive and help, that my better Obedience and farther par<g ref="char:EOLhyphen"/>ticipation of a Godlike nature, may praiſe thine infinite Benignity, and ſill my Mouth and Heart with a warmer ſenſe of all thy Favours, and with more ſuitable Expreſſions: E<g ref="char:EOLhyphen"/>ſpecially <hi>I</hi> pray that my Thoughts may be contented, and Labours faſt<g ref="char:EOLhyphen"/>ned to preſent Duty; that without needleſs projecting for the future, I may do what appears neceſſary now. Let the Year that's now to begin, be better improved than any paſt: Let me live as apprehending <hi>I</hi> may die be<g ref="char:EOLhyphen"/>fore it ends; that if <hi>I</hi> ſhould ſurvive it, I may reflect how I ſill'd it with God's fruitful Service, and rejoyce in hope, that at length Time will be
+<pb n="90" facs="tcp:98627:53"/>ended, and therewith the too too many failings of my Duty and Com<g ref="char:EOLhyphen"/>fort. <hi>Amen; for my dear Saviour's ſake.</hi>
+               </p>
+               <p>Troubles without, and eſpecially Failings within, have much indiſpos'd me for Duty and the Sweets thereof: yet when lately ill, <hi>I</hi> had no great fears, but could think with calmneſs of a future ſtate, and hope I ſhall pre<g ref="char:EOLhyphen"/>pare better for it, and for my Affli<g ref="char:EOLhyphen"/>ctions that may befall me in my paſ<g ref="char:EOLhyphen"/>ſage.</p>
+               <p>
+                  <hi>March</hi> 31. 1688.</p>
+               <p>
+                  <hi>I</hi> hope I have not departed from God, though I fear <hi>I</hi> have got but lit<g ref="char:EOLhyphen"/>tle nearer to him: I have perſevered with ſome painfulneſs in my Studies, and endeavour'd to embrace Oppor<g ref="char:EOLhyphen"/>tunities of doing good according to the Abilities I have acquir'd, and as ſeem'd conſiſtent with that regard that ſhould always be had to the great Things of Chriſtianity, and the fur<g ref="char:EOLhyphen"/>thering thereof in the ways of Love and Peace. Such has been my Aim in my frequent Thoughts and At<g ref="char:EOLhyphen"/>tempts to leave this place.</p>
+               <p>
+                  <hi>Apr.</hi> 28.</p>
+               <pb n="91" facs="tcp:98627:53"/>
+               <p>I have continu'd ſtudying, praying, inſtructing my Family and others, but with many diſtractions, not only from our unſettled Condition, but like<g ref="char:EOLhyphen"/>wiſe from other Accidents and Cir<g ref="char:EOLhyphen"/>cumſtances which occaſion trouble, and threaten loſs: I lament that I am ſo much affected by 'em, and that the greater concerns of Eternity, (the ſenſe whereof ſhould have been more awaken'd and ſtrengthned by the ſo<g ref="char:EOLhyphen"/>lemn remembrance of my Lord and Saviour at his Holy Table, the 15th and 22d.) do not more effectually di<g ref="char:EOLhyphen"/>vert my Thoughts and raiſe my Mind. Lord, pity, pardon, and help: Direct yet where I may ſerve thee better, and do more good than ever. Make me eſpecially uſeful to my Children as they grow capable of learning and lo<g ref="char:EOLhyphen"/>ving their Duty, that I may have more of the pleaſure that I moſt de<g ref="char:EOLhyphen"/>ſire, ſee more of thy reſtored Image in others, and feel it in my ſelf. And O remember thy Churches, particu<g ref="char:EOLhyphen"/>larly in theſe Nations; Guide and proſper in the ways of Holineſs and Peace, that <hi>walking in the fear of the Lord, and in the comfort of the Holy
+<pb n="92" facs="tcp:98627:54"/>Ghoſt, they may be edified and multi<g ref="char:EOLhyphen"/>plied.</hi> Amen; <hi>for, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>I</hi> have been afflicted, but I have been alſo ſuſtain'd, and I hope rais'd to a more abiding warmth and watch<g ref="char:EOLhyphen"/>fulneſs in God's bleſſed Service. Hi<g ref="char:EOLhyphen"/>therto he hath helped me in all trou<g ref="char:EOLhyphen"/>bles; I will ſtill truſt him, and en<g ref="char:EOLhyphen"/>deavour my Carriage may prove that my Truſt is not preſumption. I have been affected with others Sufferings and our common danger. May my Prayers and Labours be ſtill more vi<g ref="char:EOLhyphen"/>gorous, and my Praiſes alſo for all his Goodneſs.</p>
+               <p>
+                  <hi>July</hi> 2.</p>
+               <p>I have endeavour'd to diſcern the mind of God in thoſe Afflictions wherewith he has pleas'd to follow me; I have ſearch'd my Heart and review'd my Actions. I ſtill ſee cauſe to wiſh that I had more readily em<g ref="char:EOLhyphen"/>brac'd all Opportunities of doing good, and more effectually improv'd them. My Faults towards God have been Defects in Affection and Devo<g ref="char:EOLhyphen"/>tion, in Reſignation and Dependence, <hi>&amp;c.</hi> for which Yeſterday I begg'd
+<pb n="93" facs="tcp:98627:54"/>pardon, when I commemorated his Death, who purchas'd pardon for the Penitent; and I as earneſtly petition<g ref="char:EOLhyphen"/>ed for thoſe more powerful Aſſiſtan<g ref="char:EOLhyphen"/>ces, that may more effectually deter<g ref="char:EOLhyphen"/>mine me to all my Duty, and enable me to delight in it.</p>
+               <p>To Morrow I may ſee my Mother, Brother, <hi>&amp;c.</hi> O may our Converſe be ſtill more holy and uſeful, that we may have ſtronger hopes of meeting in Glory. <hi>Amen; for, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>July</hi> 25.</p>
+               <p>Yeſterday I return'd from <hi>Hackney,</hi> having had a pleaſant Converſe with my Mother, Brother, and other dear Relations and Friends, and our plea<g ref="char:EOLhyphen"/>ſure was not, I hope, without ſome profit, though not ſo much as I hop'd. Growing Wickedneſs and approach<g ref="char:EOLhyphen"/>ing Sufferings we could too eaſily di<g ref="char:EOLhyphen"/>ſcern, and were in ſome meaſure af<g ref="char:EOLhyphen"/>fected with. We deſire, and O may we ſtrive more effectually to know and do our Duty how difficult ſoever; and Lord, pity, pardon, help and en<g ref="char:EOLhyphen"/>creaſe thy People, and prepare us for
+<pb n="94" facs="tcp:98627:55"/>thy bleſſed Will in all things; <hi>for our Lord Jeſus's ſake.</hi> Amen.</p>
+               <p>
+                  <hi>Aug.</hi> 6.</p>
+               <p>The 3d. my Mother came to us, and we may be longer together than we are like to be again on Earth. May our Diſcourſes ſpeak our ſenſe hereof, and further our preparation for that bleſſed ſtate, where parting of Friends will be no trouble.</p>
+               <p>
+                  <hi>Sept.</hi> 26.</p>
+               <p>I Yeſterday aſſiſted at the Faſt in <hi>Horſmonden,</hi> and being indiſpos'd in Body, and having too many Diſtra<g ref="char:EOLhyphen"/>ctions in my Mind, I fear leſt I ſpake unadviſedly in Prayer; and yet my Head is ſo diſturb'd, that I cannot re<g ref="char:EOLhyphen"/>collect in what words I expreſt my ſelf. I have begg'd pardon of God, and the prevention or removal of of<g ref="char:EOLhyphen"/>fence, if any were taken, and reſolv'd as Opportunities offer'd to be better prepar'd, as God ſhall enable by Pray<g ref="char:EOLhyphen"/>er and Meditation. I am even forc'd to remove to <hi>Cranbroke,</hi> from which yet <hi>I</hi> cannot but be averſe, particular<g ref="char:EOLhyphen"/>ly for fear of diſcord with —.
+<pb n="95" facs="tcp:98627:55"/>Lord, direct us not to neglect Holineſs for Peace, nor yet to violate Peace through miſtakes about Holineſs. <hi>A<g ref="char:EOLhyphen"/>men; for, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Octob.</hi> 11. 1688.</p>
+               <p>Laſt Week we remov'd from <hi>Brench<g ref="char:EOLhyphen"/>ley</hi> to <hi>Cranbroke:</hi> Praiſed be God I came away deſir'd at both Places. I had the bleſſing of the Poor I left, and the thanks of the publick Miniſter, for furthering his Work, and promo<g ref="char:EOLhyphen"/>ting Union among his People. Lord, make me more uſeful here, direct in Difficulties, ſupport under Afflictions, and enable in all to honour thy Maje<g ref="char:EOLhyphen"/>ſty, and effectually to promote the Sal<g ref="char:EOLhyphen"/>vation of others with my own. <hi>Amen; for, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Nov.</hi> 29.</p>
+               <p>[<hi>He largely relates what paſt between him and Mr.</hi> B. <hi>the Miniſter at</hi> Cran<g ref="char:EOLhyphen"/>broke, <hi>to whom he offer'd to Preach once a Day</hi> gratis, <hi>and read</hi> Common-Pray<g ref="char:EOLhyphen"/>er <hi>in the Afternoon: (So deſirous was he of any Opportunity of Service in the publick Churches.) But the Offer being refus'd, on reaſons there mention'd, be
+<pb n="96" facs="tcp:98627:56"/>adds;</hi>] <hi>I</hi> then told him, I muſt Preach once a Day at home, that I might not be uſeleſs, and that I might do good to ſome who would not hear him or Mr. <hi>W.</hi>
+               </p>
+               <p>[<hi>On the other hand he refus'd to coun<g ref="char:EOLhyphen"/>tenance a</hi> N. C. <hi>Miniſter there, as on other accounts; ſo principally for his bind<g ref="char:EOLhyphen"/>ing his People againſt all Communion with the eſt abliſh'd Pariſh-Churches.</hi>]</p>
+               <p>
+                  <hi>About this time as he was paſſing the Yard, to take Horſe at a Neighbour's Houſe, whom he had been to viſit, his Foot ſlipt, and occaſioned a ſlight ſcratch on the Skin of his Leg: He was not at firſt apprehenſive of any danger, and though he rode home, which was ſeven Miles, immediately upon it, and walked the next Day at leaſt four more, his Leg did not at all complain: But ſoon after taking cold, and his Body being always infirm, this ſlight hurt was irritated and inflam'd to that degree, that he was forc'd to call in the help of able Chirurge<g ref="char:EOLhyphen"/>ons. But, alas, it defeated all their Skill, for it mortified ſo often, and affected ſo many other parts, that what with the pain it brought, and the troubleſom and grievous Inciſions and Operations it ob<g ref="char:EOLhyphen"/>liged
+<pb n="97" facs="tcp:98627:56"/>him to, after it had firſt proſtrated his ſtrength, and emaciated his Body; at length it extinguiſh'd that life, from which we might have hoped for ſo many great and good things, if it had pleaſed God to continue it. His patience and ſubmiſſion was all the while moſt admi<g ref="char:EOLhyphen"/>rable and exemplary.</hi>
+               </p>
+               <p>
+                  <hi>Being almoſt worn out with the Mi<g ref="char:EOLhyphen"/>ſeries which the frequent Operations of the Chirurgeons put him to:</hi>
+                  <note place="margin">☜</note> 
+                  <hi>He wrote theſe as the laſt words in his</hi> Diary, <hi>with a very weak and tr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ing hand, as the Writing and Letters too evidently ſhew.</hi>
+               </p>
+               <p>Cranbroke, Feb. 19. 1689.</p>
+               <p>
+                  <hi>I</hi> have been above two Months un<g ref="char:EOLhyphen"/>der the Chirurgeon's hands for a ſore Leg and Thigh. Pains have been ſome<g ref="char:EOLhyphen"/>times very great; Relapſes from Fea<g ref="char:EOLhyphen"/>vers, <hi>&amp;c.</hi> ſeveral; Apprehenſions of Death frequent: <hi>I</hi> have not, I think, been impatient; <hi>I</hi> have been without anxious Thoughts of Eternity; and willing, if God pleas'd, to leave my Body, but <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ixedly deſirous not to con<g ref="char:EOLhyphen"/>tinue in it, unleſs I be and do the better for this Affliction. Twice as
+<pb n="98" facs="tcp:98627:57"/>my ill Circumſtances permitted, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> view'd the Account of my ſelf, <hi>Oct.</hi> 7. 1685. and ſtill hope it is not falſe.</p>
+               <p>Of all Men, I could think only of Mr. —, betwixt whom and my ſelf there was any unkindneſs, but <hi>I</hi> think none ſinful on my part. I was ad<g ref="char:EOLhyphen"/>vis'd againſt meddling with him on that Subject, becauſe I could not ſee it was my Duty, and it might do more harm than good.</p>
+               <p>Lord, pity me in my weariſom Con<g ref="char:EOLhyphen"/>dition, help me according to thy great Goodneſs; Refine me for thy better Service on Earth, or perfect in Hea<g ref="char:EOLhyphen"/>ven.</p>
+               <p>
+                  <hi>Of his Carriage under his tedious and languiſhing Pains, the following Chara<g ref="char:EOLhyphen"/>cter gives a brief Account: to which I ſhall only add, That his Patience, (s<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Grace that Heaven gives us no occaſion to exerciſe,) having had its perfect work on Earth, eſpecially under an Af<g ref="char:EOLhyphen"/>fliction of ſo long continuance: He was (happily as to himſelf) diſmiſs'd from his Labours and Sorrows, and en<g ref="char:EOLhyphen"/>tred into his everlaſting Reſt,</hi> March 30. 1688/9.</p>
+               <pb n="99" facs="tcp:98627:57"/>
+               <p>To this Account of his Life given from his own <hi>Breviate;</hi> it may not be amiſs to annex the Character gi<g ref="char:EOLhyphen"/>ven of him by Mr. <hi>Ch</hi>—that Preach'd his <hi>Funeral Sermon.</hi>
+               </p>
+               <p>
+                  <hi>I</hi> know the uſual Flattery of <hi>Fu<g ref="char:EOLhyphen"/>neral Orations,</hi> and the ill uſe that is ſometimes made of them, when the Perſon is of no extraordinary worth to deſerve them. But very excellent Perſons, whoſe Lives have been very bright and exemplary, ſhould not fall without being taken notice of. And as 'tis a piece of Juſtice to the Dead, ſo of uſeful Charity to the Living to commemorate their Remarkable Ver<g ref="char:EOLhyphen"/>tues and Graces, that Survivers may be perſwaded and encourag'd to <hi>Go and Do likewiſe.</hi> And ſuch was this great Man. <hi>I</hi> am indeed on many ac<g ref="char:EOLhyphen"/>counts unſit to give a juſt Character of him: As by reaſon of mine own green Years; ſo alſo becauſe I had not the happineſs to be acquainted with him till the laſt ſeven Years of his life. But I ſhall ſay nothing of him, but either on my own Obſervation, or from that ſhort <hi>Breviate</hi> of his
+<pb n="102" facs="tcp:98627:61"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="103" facs="tcp:98627:61"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="98" facs="tcp:98627:59"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="99" facs="tcp:98627:59"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="100" facs="tcp:98627:60"/>Life, Penn'd by himſelf for his own uſe.</p>
+               <p>[<hi>And here after ſome Account of him from the</hi> Breviate, <hi>which 'tis needleſs to repeat, becauſe the</hi> Reader <hi>will meet with it more fully there: he proceeds.</hi>]</p>
+               <p>He had before inclin'd to the ſtudy of <hi>Phyſick,</hi> and gain'd ſo much Skill as made him very uſeful to his poor Neighbours when ſick. But as one of the <hi>Fathers</hi> ſaid concerning <hi>Tully,</hi> He could not find the Name of <hi>Jeſus</hi> there: And therefore laid thoſe Books aſide, and apply'd himſelf to that more ſweet and ſublime ſtudy of <hi>Di<g ref="char:EOLhyphen"/>vinity.</hi> Herein in a few Years he ex<g ref="char:EOLhyphen"/>ceeded and out-ſtript moſt of his Age: God had given him a large Soul, in a weak and crazy Body. He was Maſter of a quick diſcerning ſo<g ref="char:EOLhyphen"/>lid Judgment joyn'd with an active Fancy, which rarely meet together. He was indeed a living Library and walking Study, and carried about a vaſt Stock of Learning with him. And God had given him large meaſures of Grace to improve his great Abilities for the good of Souls.</p>
+               <p>With what warmth and Affection,
+<pb n="101" facs="tcp:98627:60"/>with what appoſite Expreſſions, and (<hi>I</hi> had almoſt ſaid) unimitable Flu<g ref="char:EOLhyphen"/>ency of Sacred Oratory would he pour out his Prayers before God! with what tenderneſs and compaſſion did he invite and urge Sinners to Re<g ref="char:EOLhyphen"/>pentance! How clearly would he ex<g ref="char:EOLhyphen"/>plain the deepeſt Myſteries of Chri<g ref="char:EOLhyphen"/>ſtianity, and what weighty Argu<g ref="char:EOLhyphen"/>ments did he uſe to perſwade to a be<g ref="char:EOLhyphen"/>lief and obſervance of its holy Do<g ref="char:EOLhyphen"/>ctrines and Rules! His daily Family-Expoſition of the Scriptures, which for many Years he us'd Morning and Evening; I have often thought equal for Accuracy and Inſtructiveneſs, to moſt Commentators. He took all Opportunities that his own Weakneſs and Family-diſtractions, or publick Confuſions would allow for his pub<g ref="char:EOLhyphen"/>lick Labours: And he never omitted Preaching from Houſe to Houſe by private Viſits and Chriſtian Confe<g ref="char:EOLhyphen"/>rences. His Maſter's Work was con<g ref="char:EOLhyphen"/>ſtantly upon his Heart, and he readily embrac'd all Opportunities for it. The Sick and Poor were ſure of his Com<g ref="char:EOLhyphen"/>pany, and he familiarly condeſcended to the meaneſt Capacities for their
+<pb n="102" facs="tcp:98627:58"/>good. He was as willing to inſtruct poor Cottagers in the way to the Kingdom, as thoſe of an higher rank and degree. He perfum'd every place where he came with his ſavoury Speeches and heavenly Diſcourſe: His Words dropt as the Dew, and di<g ref="char:EOLhyphen"/>ſtill'd as the Rain; And his Heart was ſtill'd with ſuch a ſenſe of Divine Love, that the holy Breathings of it flow'd forth among all with whom he converſt.</p>
+               <p>Thus he was in his Miniſterial Ca<g ref="char:EOLhyphen"/>pacity. And his Life and Actions were anſwerable to his Doctrine and Diſcourſes.</p>
+               <p>I need not ſay how pleaſant a Re<g ref="char:EOLhyphen"/>lative he was, how dutiful as a Son, how indulgent as a Husband, how prudent and affectionate as a Father. Nor need any Man tell me how plea<g ref="char:EOLhyphen"/>ſant and faithful he was in his Friend<g ref="char:EOLhyphen"/>ſhip. He had all the ingenuity and endearing Obligingneſs that belongs to ſuch a Relation. He had in himſelf thoſe four Characters in eminent de<g ref="char:EOLhyphen"/>grees, which he was often wont to ſay he wiſh'd for in a real Friend; <hi>Piety, good Nature, Fidelity in Admo<g ref="char:EOLhyphen"/>nitions,
+<pb n="103" facs="tcp:98627:58"/>and Reproofs, and a Readineſs to Communicate Notions and Experiences, for the encreaſing holy Light and Heat.</hi>
+               </p>
+               <p>
+                  <hi>I</hi> muſt paſs over many Things wor<g ref="char:EOLhyphen"/>thy to be remembred, and ſhall only mention ſome particular Vertues and Graces, which were the peculiar Or<g ref="char:EOLhyphen"/>naments of his Life.</p>
+               <p>He give remarkable Inſtances of his Piety and Devotedneſs to God, by his conſtancy and frequency in Devo<g ref="char:EOLhyphen"/>tion. He took all occaſions for Pray<g ref="char:EOLhyphen"/>er by himſelf and with others, was habitually prepar'd for this ſweet and proſitable Exerciſe of Religion. Few ever comply'd more with the Scriptu<g ref="char:EOLhyphen"/>ral Command of <hi>Praying always, and without ceaſing:</hi> This holy Incenſe was always prepar'd for the Altar, though the ſweet perfume was not always aſcending to Heaven. He obſerv'd the Lord's Day with a religious ſtrictneſs, keeping it as a holy Reſt to God in the publick and private Exerciſes of Worſhip, with as little diverſion as poſſible.</p>
+               <p>He diligently inſtructed his Inferi<g ref="char:EOLhyphen"/>ours, by Catechizing and ſerious Ex<g ref="char:EOLhyphen"/>hortations. He expreſt a warm Zeal
+<pb n="104" facs="tcp:98627:62"/>againſt Sin where-ever he found it; and his prudent, calm, and ſeaſonable Reproofs were greatly enforc'd by the blameleſsneſs of his own Example. In ſuch Inſtances his Piety ſhone in a bright attractive Light.</p>
+               <p>His Meekneſs and Moderation to<g ref="char:EOLhyphen"/>wards thoſe that differ'd from him, deſerves next to be remembred. Tho' none was more fervently zealous about the great <hi>Subſtantials</hi> of <hi>Religion;</hi> yet none were more cool and temperate about thoſe <hi>circumſtantial Differences</hi> that have occaſion'd ſuch unhappy Breaches among us. He abhor'd all conſorious Heats, and <hi>I</hi> never knew him more heartily angry againſt any, than againſt the Broachers of narrow love-killing Principles, of what Party or Perſwaſion ſoever. He was zea<g ref="char:EOLhyphen"/>ſous for Peace and Love, as well as good Works; of a truly healing and catholick Spirit. He was himſelf diſ<g ref="char:EOLhyphen"/>ſatisfied with ſome Terms of Mini<g ref="char:EOLhyphen"/>ſterial Conformity: But yet he en<g ref="char:EOLhyphen"/>courag'd faithful Parochial Miniſters with his ordinary Preſence and Com<g ref="char:EOLhyphen"/>munion, and never cenſured thoſe that were ſatisfied in what he ſcru<g ref="char:EOLhyphen"/>pled,
+<pb n="105" facs="tcp:98627:62"/>but kept up an entire Friendſhip with many of very eminent note to the very laſt. <hi>Nunquam de dogmatibus Chri<g ref="char:EOLhyphen"/>ſtus diſſeruit, ſed ſaepe, &amp; ubique, imo ſemper de vivendi ſinceritate;</hi> was a Sentence often in his Mouth and upon his Heart, written in the firſt Leaf of his <hi>Breviate,</hi> and (as I remember) of his <hi>common Preaching Bible.</hi> If Men fear'd God and wrought Righteouſ<g ref="char:EOLhyphen"/>neſs, he lov'd them heartily, however different in Judgment about Matters leſs neceſſary and important.</p>
+               <p>His Humility was alſo very remark<g ref="char:EOLhyphen"/>able; He was cloath'd with it as with a Livery and honourable Badge to diſcover his Relation to his humble condeſcending Saviour, as I remem<g ref="char:EOLhyphen"/>ber he us'd to interpret that place, 1 <hi>Pet.</hi> 5.5. Though he was juſtly e<g ref="char:EOLhyphen"/>ſteem'd by thoſe that knew him as an Oracle of Learning that had not many Superiours; yet had he low underva<g ref="char:EOLhyphen"/>luing, (not to ſay injurious) Thoughts of himſelf. 'Twas this indeed that has prov'd an unhappineſs to the Church of God, his Humility having ſtified many excellent Diſcourſes that might have been of publick uſe, and made
+<pb n="106" facs="tcp:98627:63"/>him too willing to conſine his Life and Labours to an obſcure Corner.</p>
+               <p>His Charity was very ſingular and exemplary: He devoted the 10th, and for many Years the 7th part of his Eſtate to Charitable Uſes; Neither did he ſtint himſelf to, but often ex<g ref="char:EOLhyphen"/>ceeded even theſe large proportions. He was peculiarly prudent in manage<g ref="char:EOLhyphen"/>ing his Alms to the beſt advantage; endeavour'd at the ſame time to ſave the Bodies and Souls of Men too, by the ſame act to ſupply their temporal Wants, and promote their ſpiritual Welfare. How often have I known him viſit the Poor, examine their Proviſions, and deal out his Bounty with a free and liberal Hand. And ſtill he mingſed good Counſel with all his Alms, and affectionately perſwa<g ref="char:EOLhyphen"/>ded to ſerious Piety, which had often a very commanding abiding Influence. He ſpent much pains and coſt in in<g ref="char:EOLhyphen"/>ſtructing poor Children in the Prin<g ref="char:EOLhyphen"/>ciples of Religion, in giving Bibles and other good Books, exacting a di<g ref="char:EOLhyphen"/>ligent peruſal, and frequently calling them to an account of their Profici<g ref="char:EOLhyphen"/>ency. He had many other ſecret
+<pb n="107" facs="tcp:98627:63"/>ways of Charity, (as largely appears by his private Accounts,) for which he courted not the Applauſe of Men, but is now rewarded by his heavenly Father.</p>
+               <p>
+                  <hi>I</hi> ſhall only farther mention his Pa<g ref="char:EOLhyphen"/>tience and entire Reſignation to the Will of God. For ſome Years before his Death, God viſited him with very ſore Afflictions of different natures: But he bore them all with a great ſenſe of his Fathers hand, and did not charge his Providence fooliſhly. His laſt Sickneſs was occaſion'd by a fall, which caus'd a ſmall Wound, (or rather Scratch) in his Leg, neglected by himſelf at firſt, but meeting with an inſirm diſtemper'd Body, at laſt prov'd dangerous and deſtructive. But yet under all the exceſſive Tor<g ref="char:EOLhyphen"/>tures of his Pain, and frequent lan<g ref="char:EOLhyphen"/>cings of the Chirurgeons, he ſtill ex<g ref="char:EOLhyphen"/>preſt great Patience; adn when at any time the extremity of his pain forc'd him to cry out, he check'd him<g ref="char:EOLhyphen"/>ſelf, expreſſing his fears of diſhonour<g ref="char:EOLhyphen"/>ing God by impatience, and bleſt his heavenly Father that worſe was not inflicted. Nor did he by peeviſhneſs
+<pb n="108" facs="tcp:98627:64"/>diſquiet thoſe about him, but was thankful to every one that did any neceſſary Offices for him, was pleas'd with every thing that was done, rea<g ref="char:EOLhyphen"/>dily condeſcended to every Propoſal and Advice of the Phyſicians. He Preach'd in his Chair and in his Bed: affectionately exhorted all that at<g ref="char:EOLhyphen"/>tended on him, to the ſerious pra<g ref="char:EOLhyphen"/>ctice of <hi>Religion,</hi> and ſuited his Coun<g ref="char:EOLhyphen"/>ſelfs to the particular Circumſtances, (as for as he knew them) of all that viſited him. He died with connort<g ref="char:EOLhyphen"/>able hopes of Happineſs, and often told me from the very beginning of his Sickneſs, that he had no torment<g ref="char:EOLhyphen"/>ing fears of Death: That though he could have wiſh'd he had been more watchful and uſeful, yet he hop'd he had been ſincere, and truſted that for Chriſt's ſake all his Sins were for<g ref="char:EOLhyphen"/>given. That though he had not Rap<g ref="char:EOLhyphen"/>tures and Tranſports, yet he had a conſtant peaceful Calm which con<g ref="char:EOLhyphen"/>tinued to the laſt moment of his Life. And for ſome Wecks before he died, he longed to be diſſolved, and earn<g ref="char:EOLhyphen"/>eſtly deſir'd, if God ſaw good, that he might be with Chriſt.</p>
+               <pb n="109" facs="tcp:98627:64"/>
+               <p>Thus liv'd, thus dy'd this eminent Saint: And now what remains, but that we take the Apoſtle's Counſel, as apply'd to this Occaſion, <hi>Phil.</hi> 4.9. <hi>Thoſe things which ye have both learn'd and receiv'd, and heard, and ſeen in him, do ye likewiſe;</hi> And as the God of Peace was with him, ſo he will be with you, in Life, in Death, and to Eternity.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:98627:65"/>
+            <pb facs="tcp:98627:65"/>
+            <head>
+               <hi>Books Printed for</hi> Thomas Park<g ref="char:EOLhyphen"/>hurſt, <hi>and</hi> Jonathan Robinſon.</head>
+            <p>THere is lately publiſh'd, A com<g ref="char:EOLhyphen"/>pleat Hiſtory of the Acts, Deci<g ref="char:EOLhyphen"/>ſions, Decrees, and Canons, of thoſe Famous National Councils of the Re<g ref="char:EOLhyphen"/>formed Churches in <hi>France.</hi> Wherein are contained, 1. A moſt faithful and impartial account of the Riſe, Growth, Perfection, and Decay of the Reforma<g ref="char:EOLhyphen"/>tion in that Kingdom, with its fatal <hi>Cataſtrophe</hi> upon the Revocation of the <hi>Edict</hi> of <hi>Nants,</hi> in the Year 1685.2. The Confeſſion of Faith and Diſcipline of thoſe Churches. 3. A Collection of Speeches, Letters, Sacred Politicks, Caſes of Conſcience, and Controver<g ref="char:EOLhyphen"/>ſies in Divinity; determined and re<g ref="char:EOLhyphen"/>ſolved by thoſe grave Aſſemblies. 4. Many excellent Expedients for preventing and healing Schiſms in the Churches, and for re-uniting the diſ<g ref="char:EOLhyphen"/>membred Body of divided Proteſtants. 5. The Laws, Government, and Main<g ref="char:EOLhyphen"/>tenance of their Colledges, Univerſi<g ref="char:EOLhyphen"/>ties and Miniſters, together with their
+<pb facs="tcp:98627:66"/>Exerciſe of Diſcipline upon delinquent Miniſters and Church-members. 6. A Record of very many Illuſtrious E<g ref="char:EOLhyphen"/>vents of Divine Providence relating to thoſe Churches. The whole Col<g ref="char:EOLhyphen"/>lected and Compoſed out of Original Manuſcript Acts of thoſe Renowned Synods. A Work never before Extant in any Language. In two Volumes.</p>
+            <p>A Defence of the Catholick Faith, concerning the Satisfaction of Chriſt: Written Originally by the Learned <hi>Hugo Grotius.</hi> And now Tranſlated by <hi>W. H.</hi> A Work very neceſſary in theſe Times for the preventing of the Growth of <hi>Socinianiſin.</hi>
+            </p>
+            <p>Mr. <hi>Richard Baxter</hi>'s Paraphraſe on the <hi>Pſalms</hi> of <hi>David</hi> in Metre, with other <hi>Hymns.</hi> Left ſitted for the Preſs under his own Hand.</p>
+            <p>A Diſcourſe of Earthquakes; By <hi>R. Flemming,</hi> Author of the Fulſilling of Scriptures.</p>
+            <pb facs="tcp:98627:66"/>
+         </div>
+      </back>
+   </text>
+</TEI>
